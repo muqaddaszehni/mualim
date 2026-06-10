@@ -21,7 +21,11 @@ export function saveState(state: AppState, storage: StorageLike = localStorage):
   storage.setItem(KEY, JSON.stringify(state))
 }
 
-const dayOf = (ts: number) => new Date(ts).toISOString().slice(0, 10)
+// Local calendar day, not UTC — a streak day should match the user's clock
+const dayOf = (ts: number) => {
+  const d = new Date(ts)
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
 
 export function recordAnswer(state: AppState, itemId: string, correct: boolean, now: number): AppState {
   const prev = state.statsById[itemId] ?? newStats()
