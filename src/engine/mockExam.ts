@@ -58,6 +58,6 @@ export function scoreMockExam(
       correct++
     }
   })
-  const percent = Math.round((correct / exam.length) * 1000) / 10
+  const percent = exam.length === 0 ? 0 : Math.round((correct / exam.length) * 1000) / 10
   return { date: now, percent, passed: percent >= manifest.passMarkPercent, perTopic }
 }
