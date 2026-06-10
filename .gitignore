@@ -2,3 +2,5 @@
 node_modules/
 dist/
 *.pdf
+content-src/
+content-gen/
