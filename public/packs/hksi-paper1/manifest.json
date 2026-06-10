@@ -1,0 +1,18 @@
+{
+  "id": "hksi-paper1",
+  "name": "HKSI LE Paper 1 — Fundamentals of Securities and Futures Regulation",
+  "examQuestionCount": 60,
+  "examTimeLimitMinutes": 90,
+  "passMarkPercent": 70,
+  "topics": [
+    { "id": 1, "name": "Regulatory overview of the Hong Kong financial industry", "weightPercent": 3.5, "pdfStart": 14, "pdfEnd": 39 },
+    { "id": 2, "name": "Principles of relevant Hong Kong law and the Companies Ordinance", "weightPercent": 3.5, "pdfStart": 40, "pdfEnd": 66 },
+    { "id": 3, "name": "Securities and Futures Ordinance", "weightPercent": 13.5, "pdfStart": 67, "pdfEnd": 108 },
+    { "id": 4, "name": "Licensing and registration, and subsidiary legislation", "weightPercent": 23.5, "pdfStart": 109, "pdfEnd": 177 },
+    { "id": 5, "name": "Business conduct and client relations", "weightPercent": 18.5, "pdfStart": 178, "pdfEnd": 243 },
+    { "id": 6, "name": "Business operations and practices", "weightPercent": 16.5, "pdfStart": 244, "pdfEnd": 293 },
+    { "id": 7, "name": "Participating in the Hong Kong exchanges", "weightPercent": 10, "pdfStart": 294, "pdfEnd": 339 },
+    { "id": 8, "name": "Accessing public capital", "weightPercent": 6.5, "pdfStart": 340, "pdfEnd": 402 },
+    { "id": 9, "name": "Market misconduct and improper trading practices", "weightPercent": 4.5, "pdfStart": 403, "pdfEnd": 442 }
+  ]
+}

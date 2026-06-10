@@ -1,0 +1,2502 @@
+[
+ {
+  "id": "t1-c1-f1",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Insurance Authority",
+  "pageRef": 22,
+  "front": "What is the maximum disciplinary sanction the Insurance Authority can impose on a regulated person that engages in wrongdoing?",
+  "back": "Up to the GREATER of HK$10 million or three times the profit gained or loss avoided.",
+  "explanation": "The IA, a statutory body independent of the government established under the Insurance Ordinance, holds powers similar to other Hong Kong financial regulators. Alongside this sanction it can license insurance intermediaries (brokers and agents), conduct supervisions and investigations, and commence prosecutions under the Insurance Ordinance. (PDF p.22)"
+ },
+ {
+  "id": "t1-c1-f2",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Roles of the Government hierarchy",
+  "pageRef": 21,
+  "front": "Who appoints (and may remove) the Chairman, CEO and directors of the SFC, and who may give the SFC written directions on meeting its objectives?",
+  "back": "The Chief Executive of the HKSAR does both — appointments and removals under Schedule 2, SFO; written directions under s. 11, SFO.",
+  "explanation": "The Chief Executive of the HKSAR also determines SFC members' terms and conditions of office and approves the SFC's estimates of income and expenditure, which the Financial Secretary then tables in LegCo. Do not confuse this with the Financial Secretary, who has effective overall authority over the SFC and can require information from it, but does not appoint its members. (PDF p.21)"
+ },
+ {
+  "id": "t1-c1-f3",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Relevance and impact of past regulatory problems",
+  "pageRef": 20,
+  "front": "Since when has the structure recommended by the Securities Review Committee (Ian Hay Davison) functioned, and how many ordinances does the current SFO consolidate?",
+  "back": "The structure has functioned since 1989 and remains basically unchanged; the SFO is largely a consolidation of TEN diverse ordinances regulating the securities, futures and leveraged foreign exchange industries.",
+  "explanation": "The Davison committee was appointed after the market crash of October 1987 and its recommendations were largely adopted. Key earlier dates: the first stock exchange was formed in 1891, five exchanges existed by 1973, and the Stock Exchange Control Ordinance of February 1973 forbade the opening of more exchanges. (PDF p.20)"
+ },
+ {
+  "id": "t1-c1-f4",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Registrar of Companies",
+  "pageRef": 25,
+  "front": "Does the Registrar of Companies directly regulate companies, limited partnerships, trustees, money lenders or open-ended fund companies, and does it have direct regulatory links with the SFC?",
+  "back": "No on both counts — such regulatory functions are assumed by different bodies, and there are no direct links between the SFC and the Companies Registry in regulatory areas (only an active liaison on issues of common interest).",
+  "explanation": "The Registrar administers ordinances such as the CO, the Money Lenders Ordinance and SFO Part IVA (some open-ended fund company provisions), and the Companies Registry maintains returns for public inspection and may strike off companies for failing to make returns or not carrying on business. As a member of the Standing Committee on Company Law Reform, the Registrar takes an active interest in corporate governance and may make recommendations. (PDF p.25)"
+ },
+ {
+  "id": "t1-c2-f1",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Functions and powers of the SFC",
+  "pageRef": 28,
+  "front": "Which powers may the SFC NOT delegate to others (Schedule 2, Part 2, SFO)?",
+  "back": "Powers to: (a) make subsidiary legislation; (b) establish committees under s. 8, SFO; (c) withdraw exchange companies; (d) appoint external investigators; and (e) institute proceedings in the MMT under s. 252(1), SFO.",
+  "explanation": "The SFO lists these five powers in Schedule 2, Part 2 as non-delegable functions of the SFC. They begin on PDF p.27 with subsidiary legislation, committees and withdrawal of exchange companies, and continue with appointing external investigators and instituting MMT proceedings. (PDF p.28)"
+ },
+ {
+  "id": "t1-c2-f2",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Disciplinary powers, actions, proceedings and penalties",
+  "pageRef": 31,
+  "front": "What disciplinary sanctions can the SFC impose on licensed or registered persons?",
+  "back": "The SFC has the power to reprimand (privately or publicly), to fine, and to suspend or revoke a licence or registration in relation to all or any part of the regulated activities specified on the licence or certificate of registration.",
+  "explanation": "These are the SFC's core disciplinary powers over licensed and registered persons. Suspension or revocation can be partial, applying to only some of the regulated activities on the licence or certificate of registration. (PDF p.31)"
+ },
+ {
+  "id": "t1-c2-f3",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Formation and structure",
+  "pageRef": 33,
+  "front": "Under which SFO sections are the HKEX, the SEHK/HKFE and the three clearing houses recognised, and when did they become HKEX subsidiaries?",
+  "back": "HKEX: recognised exchange controller under s. 59, SFO. SEHK and HKFE: recognised exchange companies under s. 19, SFO. The three clearing houses: recognised under s. 37, SFO. On 6 March 2000, the SEHK, the HKFE and the three associated clearing houses became wholly owned subsidiaries of the HKEX.",
+  "explanation": "These three section numbers (s. 59, s. 19 and s. 37, SFO) and the 6 March 2000 restructuring date are key recall facts. The three clearing houses are the Hong Kong Securities Clearing Company Limited, The SEHK Options Clearing House Limited and the HKFE Clearing Corporation Limited. (PDF p.33)"
+ },
+ {
+  "id": "t1-c2-f4",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Formation and structure",
+  "pageRef": 33,
+  "front": "Who must approve the Chairman of the HKEX, and who must approve the Chief Executive of the HKEX?",
+  "back": "The Chairman of the HKEX must be approved by the Chief Executive of the HKSAR, while the Chief Executive of the HKEX has to be approved by the SFC.",
+  "explanation": "This split of approval authority is a common point of confusion. The HKEX board, which mixes Government-appointed and shareholder-elected directors, elects the Chairman and appoints the Chief Executive, but the two approvals come from different authorities. (PDF p.33)"
+ },
+ {
+  "id": "t1-c3-f1",
+  "type": "flashcard",
+  "topic": 1,
+  "section": "Knowledge check answers",
+  "pageRef": 38,
+  "front": "What is an exchange controller, and what duty does it have over the entities it controls?",
+  "back": "A company recognised as an exchange controller by the SFC under the SFO. It may control a recognised exchange company or recognised clearing house, and must ensure these controlled entities perform their functions and duties in an orderly, fair and efficient manner and comply with all applicable rules and regulations.",
+  "explanation": "This is a who-regulates-what fact: recognition comes from the SFC under the SFO, and the controller's duty covers both a recognised exchange company and a recognised clearing house. The HKEX is the exchange controller of the SEHK and its holding company. (PDF p.38)"
+ },
+ {
+  "id": "t2-c1-f1",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "The Hong Kong Special Administrative Region system of law courts and tribunals",
+  "pageRef": 46,
+  "front": "What is the monetary limit on civil disputes heard by the District Court, and which very serious criminal offences are excluded from its jurisdiction?",
+  "back": "Civil disputes over amounts up to HK$3 million; very serious offences such as murder, manslaughter and rape are excluded.",
+  "explanation": "The District Court considers more serious criminal cases but not the very serious offences of murder, manslaughter and rape, and hears civil cases involving disputes over amounts up to HK$3 million. Cases above these limits fall to the High Court, whose Court of First Instance has unlimited criminal and civil jurisdiction. (PDF p.46)"
+ },
+ {
+  "id": "t2-c1-f2",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "CO and related matters",
+  "pageRef": 48,
+  "front": "What is the maximum number of members a private company may have under s. 11 of the CO, and who is excluded from the count?",
+  "back": "No more than 50 members, excluding present and past employees who are members and continue to be members respectively.",
+  "explanation": "The 50-member ceiling is one of four defining features of a private company, alongside restricting share transfers, not offering shares or debentures to the public, and not being limited by guarantee. A company that fails these requirements and is not a guarantee company is a public company under s. 12, CO. (PDF p.48)"
+ },
+ {
+  "id": "t2-c1-f3",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "CO and related matters",
+  "pageRef": 49,
+  "front": "On what date was the memorandum of association abolished for all Hong Kong companies, and what happened to conditions in existing memoranda?",
+  "back": "3 March 2014, when the CO took effect; for companies incorporated before that date, conditions previously set out in the memorandum are deemed to be included in the articles of association.",
+  "explanation": "Since the CO took effect on 3 March 2014, the articles of association are considered the single constitutional document of the company, forming an agreement between the company and its members and prescribing regulations for its internal management and operation. (PDF p.49)"
+ },
+ {
+  "id": "t2-c1-f4",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "The Hong Kong Special Administrative Region system of law courts and tribunals",
+  "pageRef": 47,
+  "front": "For which type of dispute does the SFO provide arbitration as a means of resolution, and which ordinance provides the statutory framework for arbitration?",
+  "back": "Disputes arising from leveraged foreign exchange trading; the Arbitration Ordinance provides the statutory framework.",
+  "explanation": "Arbitration resolves a dispute using one or more neutral third parties whose decision is accepted as binding, and is said to be fast, cheap, informal and private. The Hong Kong International Arbitration Centre provides domestic arbitration (both parties in Hong Kong) and international arbitration (one party located overseas). (PDF p.47)"
+ },
+ {
+  "id": "t2-c2-f1",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "Special resolution (s. 564, CO)",
+  "pageRef": 53,
+  "front": "What voting threshold and notice period apply to a special resolution, and by when must a copy be lodged with the Registrar of Companies?",
+  "back": "At least 75% of the members who cast a vote at a general meeting (in person or by proxy); not less than 14 days' notice specifying the intention to pass the resolution; a copy must be lodged with the Registrar of Companies within 15 days of it being passed.",
+  "explanation": "These three numbers — 75%, 14 days' notice and 15 days to lodge — define the special resolution under s. 564, CO, used for matters such as reduction of share capital and voluntary winding-up. An ordinary resolution by contrast needs only a simple majority of those present and voting. (PDF p.53)"
+ },
+ {
+  "id": "t2-c2-f2",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "Directors",
+  "pageRef": 55,
+  "front": "What is the minimum number of directors required by the CO for (a) a company that is not a private company and (b) a private company?",
+  "back": "(a) At least two directors (s. 453, CO); (b) at least one director (s. 454, CO). Every private company (other than one within the same group as a listed company) must also have at least one director who is a natural person.",
+  "explanation": "The directors must be appointed by the members acting in general meeting. The natural-person requirement prevents a private company outside a listed group from having only corporate directors. (PDF p.55)"
+ },
+ {
+  "id": "t2-c2-f3",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "Protection of the interests of minority shareholders (in relation to internal procedures)",
+  "pageRef": 54,
+  "front": "Under the CO minority safeguards, what thresholds apply to (a) requesting directors to call a general meeting and (b) asking the Financial Secretary to appoint an investigator into the company's affairs?",
+  "back": "(a) Members with 5% of the paid-up share capital which carries voting rights; (b) 100 members or 10% of the holders of the issued shares.",
+  "explanation": "If the directors will not call the requested general meeting, the 5% members may call it themselves. A separate 10% threshold — holders of at least 10% of the total voting rights of a class — applies to petitioning the court to cancel a variation of class rights. (PDF p.54)"
+ },
+ {
+  "id": "t2-c2-f4",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "Members' (solvent) voluntary winding-up (s. 233, CWUMPO)",
+  "pageRef": 62,
+  "front": "For a members' voluntary winding-up, what must the certificate of solvency state and within what time must it be issued?",
+  "back": "The directors (or majority if more than two; the sole director for a one-director private company) must certify that, after full enquiry into the company's affairs, they have formed the opinion the company will be able to pay its debts within 12 months from the commencement of the winding-up. It must be issued within the five weeks preceding the resolution, be delivered to the Registrar of Companies no later than when the copy of the winding-up resolution is delivered, and include a statement of the company's assets and liabilities at the latest practicable date.",
+  "explanation": "If the certificate of solvency requirements are met, the winding-up is a members' voluntary winding-up; if not, it becomes a creditors' voluntary winding-up. The key figures are 12 months to pay debts and the five-week window before the resolution. (PDF p.62)"
+ },
+ {
+  "id": "t2-c3-f1",
+  "type": "flashcard",
+  "topic": 2,
+  "section": "Knowledge check answers",
+  "pageRef": 64,
+  "front": "What is the highest court in Hong Kong, and who presides over it?",
+  "back": "The Court of Final Appeal, presided over by the Chief Justice.",
+  "explanation": "The knowledge check answer states the highest court in Hong Kong is the Court of Final Appeal, which is presided over by the Chief Justice. This is a core who-does-what fact about the Hong Kong court hierarchy. (PDF p.64)"
+ },
+ {
+  "id": "t3-c1-f1",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Topic overview",
+  "pageRef": 67,
+  "front": "On what date did the Securities and Futures Ordinance (SFO) become operative?",
+  "back": "1 April 2003.",
+  "explanation": "The Topic overview states that the SFO, which constitutes the foundation for the regulation of the securities and futures industry in Hong Kong, became operative on 1 April 2003. Do not confuse this with 2015, when Part IIIA on OTC derivatives was first introduced. (PDF p.67)"
+ },
+ {
+  "id": "t3-c1-f2",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Background",
+  "pageRef": 69,
+  "front": "How many ordinances governed Hong Kong's securities, futures and investment products regulation before the SFO, and what happened to them?",
+  "back": "Ten different ordinances, all repealed with the implementation of the SFO.",
+  "explanation": "These ten ordinances had been introduced at different times over a few decades to meet various regulatory and legal needs, and the SFO replaced them with a single, more efficient, modern and flexible regime. (PDF p.69)"
+ },
+ {
+  "id": "t3-c1-f3",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part I - Preliminary",
+  "pageRef": 70,
+  "front": "Where are most of the general definitions used throughout the SFO located?",
+  "back": "Schedule 1, Part 1 of the SFO.",
+  "explanation": "Part I contains an interpretations clause referring to Schedule 1, Part 1. Definitions can also be found within specific Parts and sections of the SFO, but those apply only in the context of those Parts and sections. (PDF p.70)"
+ },
+ {
+  "id": "t3-c1-f4",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part III - Exchange companies, clearing houses, exchange controllers, investor compensation companies and automated trading services",
+  "pageRef": 71,
+  "front": "Name the four recognised clearing houses in Hong Kong.",
+  "back": "Hong Kong Securities Clearing Company Limited, The SEHK Options Clearing House Limited, the HKFE Clearing Corporation Limited and the OTC Clearing Hong Kong Limited.",
+  "explanation": "A clearing house is a company providing a clearing and settlement service, recognised by the SFC under Part III after consulting and/or obtaining the consent of the Financial Secretary. The Investor Compensation Company Limited is a separate category - the only investor compensation company. (PDF p.71)"
+ },
+ {
+  "id": "t3-c1-f5",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part IIIA - Over-the-counter derivative transactions",
+  "pageRef": 72,
+  "front": "In the OTC derivatives regime, who is the trade repository and who makes the rules?",
+  "back": "The HKMA is designated as the trade repository (reportable information goes to it); the SFC is empowered to make rules on the reporting, clearing and trading obligations.",
+  "explanation": "This split of roles provides greater transparency that allows regulators to better monitor risks in the financial system. Part IIIA was first introduced in 2015 and is being rolled out in stages. (PDF p.72)"
+ },
+ {
+  "id": "t3-c1-f6",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part IV - Offers of investments",
+  "pageRef": 73,
+  "front": "Match SFO sections 103, 104, 104A and 105 to their functions under Part IV.",
+  "back": "s. 103: offence to offer investments to the public outside permitted routes or exemptions; s. 104: SFC authorisation of collective investment schemes (CISs); s. 104A: SFC authorisation of structured products; s. 105: SFC authorisation of advertisements and other documents containing a public offer.",
+  "explanation": "These are the four core aspects of Part IV. In each authorisation power, the SFC may also impose conditions, enabling the products or documents to be marketed to the public. (PDF p.73)"
+ },
+ {
+  "id": "t3-c1-f7",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part V - Licensing and registration",
+  "pageRef": 76,
+  "front": "How many types of regulated activity does the SFO provide for, and who can amend the list?",
+  "back": "13 distinct types (Schedule 5, SFO); the Financial Secretary can amend the list by notification in the Gazette.",
+  "explanation": "The 13 types run from Type 1 (dealing in securities) to Type 13 (providing depositary services for relevant CISs). Note that Type 11 and Type 12 regulated activities are not yet fully in force. (PDF p.76)"
+ },
+ {
+  "id": "t3-c1-f8",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part V - Licensing and registration",
+  "pageRef": 77,
+  "front": "Who may become an intermediary under the SFO, and what are the two kinds of intermediary?",
+  "back": "Only corporations may become intermediaries. A corporation obtaining a licence is a \"licensed corporation\" unless it is an authorised financial institution (AFI), in which case it is a \"registered institution\".",
+  "explanation": "Together, licensed corporations and registered institutions are referred to as \"intermediaries\". Individuals act as representatives on behalf of an intermediary and are licensed (for a licensed corporation) or registered (for a registered institution). (PDF p.77)"
+ },
+ {
+  "id": "t3-c1-f9",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part VI - Capital requirements, client assets, records and audit relating to intermediaries",
+  "pageRef": 78,
+  "front": "What must a licensed corporation do if it cannot comply with the required amounts of capital specified in the FRR?",
+  "back": "(a) Notify the SFC in writing as soon as reasonably practicable; and (b) immediately cease carrying on any regulated activity, unless otherwise permitted by the SFC.",
+  "explanation": "In addition, where the SFC reasonably believes a licensed corporation cannot comply with the specified capital requirements, it may by notice in writing suspend the corporation's licence or only allow it to continue subject to conditions. (PDF p.78)"
+ },
+ {
+  "id": "t3-c1-f10",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part VI - Capital requirements, client assets, records and audit relating to intermediaries",
+  "pageRef": 78,
+  "front": "Within what time must a licensed corporation notify the SFC of a failure to comply with FRR requirements OTHER than the capital amounts, and do the FRR apply to registered institutions?",
+  "back": "It must notify the SFC in writing within one business day of becoming aware of the failure. The FRR do not apply to registered institutions, which must meet a separate set of requirements set by the HKMA.",
+  "explanation": "Contrast this one-business-day deadline with capital-amount failures, which require notification as soon as reasonably practicable plus an immediate cessation of regulated activities unless the SFC permits otherwise. (PDF p.78)"
+ },
+ {
+  "id": "t3-c2-f1",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Safeguarding and control of client securities",
+  "pageRef": 79,
+  "front": "Under which section of the SFO did the SFC make the Securities and Futures (Client Securities) Rules?",
+  "back": "Section 148, SFO.",
+  "explanation": "The SFC is empowered to make rules on the holding of and dealing with client securities and collateral by an intermediary, its associated entity, or persons acting on their behalf, and made the Client Securities Rules under s. 148, SFO. Do not confuse this with s. 149 (Client Money Rules) or s. 151 (Keeping of Records Rules). (PDF p.79)"
+ },
+ {
+  "id": "t3-c2-f2",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Safeguarding of client money",
+  "pageRef": 79,
+  "front": "Under which section of the SFO were the Securities and Futures (Client Money) Rules made, and to whom do they NOT apply?",
+  "back": "Section 149, SFO. They do not apply to registered institutions, which must follow the rules set by the HKMA. A breach of the rules is an offence.",
+  "explanation": "The SFC made the Client Money Rules under s. 149, SFO for licensed corporations and their associated entities. The source notes expressly that these SFC rules do not apply to registered institutions because the HKMA sets their rules. (PDF p.79)"
+ },
+ {
+  "id": "t3-c2-f3",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Associated entity",
+  "pageRef": 80,
+  "front": "What is the minimum voting-power threshold for a person to be a 'controlling entity' of a corporation?",
+  "back": "Control of not less than 20% of the voting power. Alternatively, the right to nominate any directors, or an interest in shares entitling the person to veto or amend resolutions of the controlled corporation.",
+  "explanation": "The controlling entity relationship is one limb of the 'associated entity' definition. Keep the 20% figure distinct from the 'related corporation' test, which uses more than half the voting power at general meetings. (PDF p.80)"
+ },
+ {
+  "id": "t3-c2-f4",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Associated entity",
+  "pageRef": 80,
+  "front": "Within what period must an associated entity notify the SFC of becoming or ceasing to be an associated entity (s. 165, SFO)?",
+  "back": "Within seven business days, in writing. Any subsequent change in the prescribed information must also be notified within seven business days after the change.",
+  "explanation": "The seven-business-day limit applies both to the initial notification of becoming or ceasing to be an associated entity and to changes in information prescribed under SFC rules. Contravention is an offence. (PDF p.80)"
+ },
+ {
+  "id": "t3-c2-f5",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Keeping of records",
+  "pageRef": 80,
+  "front": "Under which section of the SFO were the Securities and Futures (Keeping of Records) Rules made, and to whom do they apply?",
+  "back": "Section 151, SFO. They apply to intermediaries (including registered institutions) and to associated entities of an intermediary whose client assets are received or held by them.",
+  "explanation": "Unlike the client money rules, the record-keeping rules cover registered institutions as well as licensed corporations. Compare s. 148 (client securities), s. 149 (client money) and s. 152 (contract notes, statements of account and receipts). (PDF p.80)"
+ },
+ {
+  "id": "t3-c2-f6",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Provisions relating to audit matters",
+  "pageRef": 81,
+  "front": "By when must a licensed corporation submit its audited accounts to the SFC?",
+  "back": "Not later than four months after the end of the financial year or, for cessation accounts, four months after the date of cessation of the business. Failure to submit as required is an offence (s. 156, SFO).",
+  "explanation": "The four-month deadline applies to both annual accounts and cessation accounts, measured from the financial year end or the cessation date respectively. (PDF p.81)"
+ },
+ {
+  "id": "t3-c2-f7",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Appointment of auditors",
+  "pageRef": 81,
+  "front": "What are the time limits for appointing an auditor and notifying the SFC of the appointment?",
+  "back": "Appoint within one month of being licensed or becoming an associated entity; notify the SFC within seven business days of the appointment. Failure to appoint is an offence (s. 153, SFO).",
+  "explanation": "Two separate clocks run: one month to appoint, then seven business days to notify the SFC of the appointment. Both licensed corporations and their associated entities are covered. (PDF p.81)"
+ },
+ {
+  "id": "t3-c2-f8",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Removal or resignation of auditors",
+  "pageRef": 81,
+  "front": "Within what period must a licensed corporation notify the SFC after giving notice of a resolution to remove or replace its auditor (s. 154, SFO)?",
+  "back": "Within one business day, in writing. The same applies where the auditor ceases to be its auditor before his term of office expires.",
+  "explanation": "This is the shortest notification deadline in the chapter — one business day — and is easily confused with the seven business days allowed for notifying an auditor's appointment. It applies to licensed corporations and any associated entities. (PDF p.81)"
+ },
+ {
+  "id": "t3-c2-f9",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Investigations of possible offences, etc.",
+  "pageRef": 89,
+  "front": "Under a magistrate's warrant in a Part VIII, SFO investigation: within what period may premises be entered, and for how long may seized documents be retained?",
+  "back": "Entry (if necessary by force) at any time within seven days of the warrant; seized documents may be retained for six months, a period which may be extended (s. 191, SFO).",
+  "explanation": "The warrant may also require persons on the premises to produce relevant documents and prohibit erasing, altering or removing them. Remember: seven days for entry, six months (extendable) for retention. (PDF p.89)"
+ },
+ {
+  "id": "t3-c2-f10",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part IX – Discipline",
+  "pageRef": 90,
+  "front": "What is the maximum penalty the SFC may order a regulated person to pay for misconduct under s. 194, SFO?",
+  "back": "Up to the greater of HK$10 million or three times any profit gained or loss avoided as a result of the misconduct, separately from or in addition to other sanctions (revocation/suspension of licence or responsible officer approval, public or private reprimand, prohibition from applying for a licence, registration or approval).",
+  "explanation": "The penalty is the GREATER of the two amounts, not the lesser. A 'regulated person' includes a person involved in the management of a licensed corporation's business even if unlicensed — so managers-in-charge of core functions (MICs) are exposed to these sanctions. (PDF p.90)"
+ },
+ {
+  "id": "t3-c3-f1",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part IX – Discipline",
+  "pageRef": 92,
+  "front": "By how much may the SFC reduce disciplinary sanctions to recognise an intermediary's cooperation, and what is the general principle on timing?",
+  "back": "The SFC may reduce up to 30% of the disciplinary sanctions imposed. The earlier the cooperation is given by the intermediary and recognised by the SFC, the higher the reduction may be.",
+  "explanation": "This comes from the SFC's \"Guidance Note on Cooperation with the SFC\", which recognises cooperation such as voluntary prompt self-reporting, providing true and complete information, accepting liability and taking rectification measures. (PDF p.92)"
+ },
+ {
+  "id": "t3-c3-f2",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part XII – Investor compensation",
+  "pageRef": 95,
+  "front": "What is the maximum compensation payable from the Investor Compensation Fund, and how is the limit set?",
+  "back": "HK$500,000 per person making a claim, under the Securities and Futures (Investor Compensation – Compensation Limits) Rules. The limits are set by reference to individuals, not to brokers as was previously the case.",
+  "explanation": "The fund is financed by a levy on SEHK and HKFE transactions payable by both buyer and seller, and the Investor Compensation Company Limited processes claims against it. (PDF p.95)"
+ },
+ {
+  "id": "t3-c3-f3",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part XIVA – Disclosure of inside information",
+  "pageRef": 97,
+  "front": "What is the maximum regulatory fine the Market Misconduct Tribunal may impose on a listed corporation and/or its directors for breaching the inside information disclosure requirement?",
+  "back": "A regulatory fine of up to HK$8 million, and/or other sanctions (s. 307N, SFO). There may also be civil liability to persons who sustained pecuniary loss as a result of the breach (s. 307Z, SFO).",
+  "explanation": "An officer is liable for the corporation's breach if it was caused by his intentional, reckless or negligent conduct, or if he failed to take all reasonable measures to prevent it (s. 307G, SFO). (PDF p.97)"
+ },
+ {
+  "id": "t3-c3-f4",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part XV – Disclosure of interests",
+  "pageRef": 97,
+  "front": "At what threshold must persons (other than directors and chief executives) disclose their interests in the relevant share capital of a listed company?",
+  "back": "5% of the relevant share capital (i.e. its voting shares, whether or not issued). Directors and chief executives must disclose ALL interests, with no threshold.",
+  "explanation": "\"Interest\" is widely defined: it includes long and short positions without netting, interests in equity derivatives (cash or physically settled), and attributed interests such as those held through trusts, corporate shareholdings or family arrangements. (PDF p.97)"
+ },
+ {
+  "id": "t3-c3-f5",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part XV – Disclosure of interests",
+  "pageRef": 98,
+  "front": "Within what time frame, and through what system, must disclosure-of-interests filings be made under Part XV, SFO?",
+  "back": "Normally within three business days after the relevant event, via the online electronic filing system operated by Hong Kong Exchanges and Clearing Limited (HKEX); filings are publicly available on the HKEX website. Failure to file when required is an offence.",
+  "explanation": "Once a person has crossed the 5% threshold, further disclosure is only required when the holding moves up or down through a whole percentage level, or falls below 5%. (PDF p.98)"
+ },
+ {
+  "id": "t3-c3-f6",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part XV – Disclosure of interests",
+  "pageRef": 98,
+  "front": "What shareholding do members of a listed corporation need to require it to investigate the interests held in its voting shares, and what condition applies?",
+  "back": "Members holding at least 10% of the total number of issued voting shares may require the investigation, provided they give reasonable grounds for making the request (s. 331, SFO).",
+  "explanation": "Where the investigation is member-initiated, the corporation must also prepare a report made available to its members. On receiving information, the corporation must notify the relevant exchange and the SFC (and the HKMA if it or its subsidiary is an AFI). (PDF p.98)"
+ },
+ {
+  "id": "t3-c3-f7",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Part XVI – Miscellaneous",
+  "pageRef": 99,
+  "front": "Can the SFC intervene in civil proceedings between third parties?",
+  "back": "Yes, but only in cases which concern matters under the SFO or certain parts of the CO, and subject to the approval of the court to do so (s. 385, SFO). The SFC may also begin or carry on any civil proceedings by a solicitor or otherwise (s. 387A, SFO).",
+  "explanation": "This is one of the Part XVI provisions reflecting the increase in civil law applications; it mirrors Knowledge check Question 5 in the source. (PDF p.99)"
+ },
+ {
+  "id": "t3-c3-f8",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Knowledge check",
+  "pageRef": 102,
+  "front": "What should a licensed corporation do if it fails to meet its capital requirements?",
+  "back": "It should notify the SFC in writing as soon as reasonably practicable of the fact, and immediately cease carrying out any regulated activity for which it is licensed, unless the SFC permits it to carry on such activity.",
+  "explanation": "Both steps are required: written notification to the SFC as soon as reasonably practicable, plus immediate cessation of regulated activities unless the SFC permits otherwise. (PDF p.102)"
+ },
+ {
+  "id": "t3-c3-f9",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Knowledge check",
+  "pageRef": 102,
+  "front": "What is an associated entity for the purposes of the SFO?",
+  "back": "A company which is in a controlling entity relationship with the intermediary and receives or holds in Hong Kong client assets of the intermediary.",
+  "explanation": "Both elements must be satisfied: the controlling entity relationship with the intermediary, and the receipt or holding in Hong Kong of the intermediary's client assets. (PDF p.102)"
+ },
+ {
+  "id": "t3-c4-f1",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Client securities",
+  "pageRef": 106,
+  "front": "Part 2 of the Securities and Futures (Client Securities) Rules covers client securities and securities collateral received or held by intermediaries other than in the conduct of which regulated activity?",
+  "back": "Type 13 regulated activity (and their associated entities).",
+  "explanation": "The Topic 4 table of contents describes Part 2 as covering client securities and securities collateral received or held by intermediaries other than in conduct of Type 13 regulated activity, and their associated entities. Part 1 is Preliminary and Part 3 is Miscellaneous. (PDF p.106)"
+ },
+ {
+  "id": "t3-c4-f2",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Special Guidelines and Guidance Notes issued by the SFC",
+  "pageRef": 104,
+  "front": "Name the four licensing-related guidelines/handbooks issued by the SFC.",
+  "back": "(1) Licensing Handbook; (2) Fit and Proper Guidelines; (3) Guidelines on Competence; (4) Guidelines on Continuous Professional Training.",
+  "explanation": "These four items make up the licensing-related list (item 3.1) in the Schedule of special guidelines and guidance notes issued by the SFC. All other guidelines in the Schedule, such as the Client Identity Rule Policy, fall under the business conduct-related (general) list. (PDF p.104)"
+ },
+ {
+  "id": "t3-c4-f3",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Major Subsidiary Legislation",
+  "pageRef": 103,
+  "front": "Which two sets of major subsidiary legislation cover OTC derivative transactions?",
+  "back": "(1) Securities and Futures (OTC Derivative Transactions – Reporting and Record Keeping Obligations) Rules; (2) Securities and Futures (OTC Derivative Transactions – Clearing and Record Keeping Obligations and Designation of Central Counterparties) Rules.",
+  "explanation": "These appear as items 1.16 and 1.17 in the Schedule of major subsidiary legislation. One set deals with reporting and record keeping obligations, the other with clearing and record keeping obligations and the designation of central counterparties. (PDF p.103)"
+ },
+ {
+  "id": "t3-c4-f4",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Important Codes issued by the SFC",
+  "pageRef": 104,
+  "front": "Which SFC code applies to persons providing credit rating services?",
+  "back": "The Code of Conduct for Persons Providing Credit Rating Services.",
+  "explanation": "It is listed in the Schedule (item 2.4) as the code relating to credit rating agencies. Separate codes cover share registration (The Code of Conduct for Share Registrars) and open-ended fund companies (Code on Open-Ended Fund Companies). (PDF p.104)"
+ },
+ {
+  "id": "t3-c4-f5",
+  "type": "flashcard",
+  "topic": 3,
+  "section": "Provision of contract notes, statements of account and receipts to clients",
+  "pageRef": 107,
+  "front": "Which two frequencies of statements of account are covered in the Topic 4 section on provision of contract notes, statements of account and receipts to clients?",
+  "back": "Daily statements of account and monthly statements of account.",
+  "explanation": "Section 6 of the Topic 4 table of contents lists contract notes, daily statements of account, monthly statements of account and receipts. No other statement frequency is listed in this section. (PDF p.107)"
+ },
+ {
+  "id": "t4-c1-f1",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Responsible officer",
+  "pageRef": 115,
+  "front": "What is the penalty for a licensed corporation that carries on a regulated activity in contravention of the responsible officer appointment requirements without reasonable excuse?",
+  "back": "A fine at level 6 and, in the case of a continuing offence, a further fine of HK$2,000 for every day during which the offence continues.",
+  "explanation": "Breaching the requirements in s. 125, SFO to appoint not less than two responsible officers (at least one an executive director) and to have every individual executive director approved as a responsible officer is an offence with this penalty. (PDF p.115)"
+ },
+ {
+  "id": "t4-c1-f2",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Transfer of representative's accreditation",
+  "pageRef": 117,
+  "front": "Within how many days must a licensed corporation notify the SFC after a licensed representative ceases to be employed with it?",
+  "back": "Within seven business days after the cessation.",
+  "explanation": "The notification duty falls on the accredited licensed corporation, not the representative. This is separate from the representative's own 180-day window to transfer his accreditation. (PDF p.117)"
+ },
+ {
+  "id": "t4-c1-f3",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Transfer of representative's accreditation",
+  "pageRef": 117,
+  "front": "How long does a licensed representative have to transfer his accreditation to another licensed corporation after ceasing employment, and what happens if he fails?",
+  "back": "180 days; failing which his licence is deemed to have been revoked upon the cessation of employment.",
+  "explanation": "The deemed revocation takes effect from the date of cessation, not from the end of the 180-day period. (PDF p.117)"
+ },
+ {
+  "id": "t4-c1-f4",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Temporary licences and provisional licences",
+  "pageRef": 118,
+  "front": "What are the time limits on temporary licences granted by the SFC?",
+  "back": "Each temporary licence may not exceed three months, and the total period of temporary licences held by the same person may not exceed six months over a 24-month period.",
+  "explanation": "Temporary licences are available to corporations principally carrying on business overseas (and their representatives) for regulated activities other than Type 3 and Type 7 to Type 9. (PDF p.118)"
+ },
+ {
+  "id": "t4-c1-f5",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Substantial shareholder",
+  "pageRef": 115,
+  "front": "What shareholding or voting thresholds make a person a substantial shareholder of a corporation under s. 6 of Part 1 of Schedule 1, SFO?",
+  "back": "Alone or with associates: (a) an interest of more than 10% of the total issued shares; (b) directly or indirectly more than 10% of the voting power at a general meeting; or (c) ability to exercise 35% or more of the voting power of another corporation which in turn has more than 10% of the voting power of the corporation.",
+  "explanation": "A person may not become or continue to be a substantial shareholder of a licensed corporation without first being approved by the SFC (s. 131, SFO). (PDF p.115)"
+ },
+ {
+  "id": "t4-c1-f6",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Responsible officer",
+  "pageRef": 114,
+  "front": "How many responsible officers must a licensed corporation appoint, and what additional condition applies?",
+  "back": "Not less than two responsible officers, at least one of whom must be an executive director (s. 125, SFO); every individual executive director must also be approved as a responsible officer.",
+  "explanation": "In addition, for each regulated activity the corporation must have at least one responsible officer available at all times to supervise that activity, based in Hong Kong (s. 118(1)(a)(ii), SFO). (PDF p.114)"
+ },
+ {
+  "id": "t4-c1-f7",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Executive officer",
+  "pageRef": 115,
+  "front": "How many executive officers must a registered institution appoint in respect of each type of regulated activity?",
+  "back": "At least two executive officers per type of regulated activity, with at least one executive officer available at all times to supervise the business of the regulated activity.",
+  "explanation": "This mirrors the responsible officer regime for licensed corporations; registered institutions must also comply with the Banking Ordinance provisions on appointing at least two executive officers to directly supervise regulated activities. (PDF p.115)"
+ },
+ {
+  "id": "t4-c1-f8",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Fit and proper guidelines for licensed representatives and responsible officers",
+  "pageRef": 119,
+  "front": "What is the minimum age requirement for an individual applicant for a representative licence (or equivalent)?",
+  "back": "18 years.",
+  "explanation": "The age requirement is part of the competence and capability criteria in the Fit and Proper Guidelines, amplified in the Guidelines on Competence; the competence tests also involve experience and educational qualifications. (PDF p.119)"
+ },
+ {
+  "id": "t4-c1-f9",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Topic overview",
+  "pageRef": 110,
+  "front": "On what dates were the two OTC derivative rules enacted?",
+  "back": "The Securities and Futures (OTC Derivative Transactions – Reporting and Record Keeping Obligations) Rules on 10 July 2015; the Securities and Futures (OTC Derivative Transactions – Clearing and Record Keeping Obligations and Designation of Central Counterparties) Rules on 1 September 2016.",
+  "explanation": "The 2015 rules were the first subsidiary legislation of the OTC derivatives market regulatory regime advocated after the 2008 global financial crisis. (PDF p.110)"
+ },
+ {
+  "id": "t4-c1-f10",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Registered institution",
+  "pageRef": 116,
+  "front": "Which SFC regulatory criteria does the HKMA NOT apply when acting as front-line regulator of registered institutions?",
+  "back": "Capital adequacy, the handling of client money, and the audit requirements. All other SFC criteria, including fitness and properness and business conduct, are applied by the HKMA.",
+  "explanation": "Registered institutions are jointly regulated by the HKMA and the SFC, with the HKMA as the front-line regulator because of the special features of AFIs. (PDF p.116)"
+ },
+ {
+  "id": "t4-c1-f11",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Fit and proper guidelines for corporate applicants and intermediaries",
+  "pageRef": 120,
+  "front": "Which capital requirements must licensed corporations and registered institutions each comply with under the fit and proper guidelines?",
+  "back": "Licensed corporations: the Securities and Futures (Financial Resources) Rules (FRR). Registered institutions: the HKMA's capital adequacy requirements.",
+  "explanation": "An intermediary must also not be subject to bankruptcy proceedings or have failed to meet a judgement debt. (PDF p.120)"
+ },
+ {
+  "id": "t4-c2-f1",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Compliance adviser",
+  "pageRef": 121,
+  "front": "What minimum paid-up share capital must sponsors and compliance advisers maintain, and at what times?",
+  "back": "A minimum paid-up share capital of HK$10 million, maintained at all times.",
+  "explanation": "This is part of the additional competence requirements for sponsors and compliance advisers, alongside having at least two Principals supervising the transaction team at all times and meeting additional CPT requirements. Do not confuse it with the general FRR paid-up share capital scale of up to HK$30 million. (PDF p.121)"
+ },
+ {
+  "id": "t4-c2-f2",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Guidelines on Continuous Professional Training",
+  "pageRef": 122,
+  "front": "How many CPT hours per calendar year must (a) a licensed representative and (b) a responsible officer undertake?",
+  "back": "(a) Minimum 10 CPT hours, regardless of the number and types of regulated activities; (b) minimum 12 CPT hours, of which the 2 additional hours should relate to regulatory compliance.",
+  "explanation": "The same minimums apply to relevant individuals (10 hours) and executive officers (12 hours) of registered institutions. The two extra hours for responsible/executive officers are specifically on regulatory compliance, not ethics. (PDF p.122)"
+ },
+ {
+  "id": "t4-c2-f3",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Guidelines on Continuous Professional Training",
+  "pageRef": 122,
+  "front": "Within the annual CPT total, how many hours must be (a) directly relevant to the licensed regulated activities, (b) on ethics or compliance, and (c) sponsor-related or Codes-related?",
+  "back": "(a) At least 5 hours on topics directly relevant to the regulated activities licensed; (b) no less than 2 hours on ethics or compliance; (c) not less than 2.5 hours of sponsor-related CPT for those doing sponsor work, and not less than 2.5 hours of Codes-related CPT for TC Advisers and TCROs.",
+  "explanation": "All of these are per-calendar-year requirements within the overall 10-hour (representative) or 12-hour (responsible officer) minimum. The 2.5-hour figure is identical for sponsor work and Codes work, a common exam confusion point. (PDF p.122)"
+ },
+ {
+  "id": "t4-c2-f4",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Guidelines on Continuous Professional Training",
+  "pageRef": 122,
+  "front": "What one-off CPT requirement applies to each new individual practitioner in Hong Kong?",
+  "back": "Two CPT hours on ethics, completed within 12 months, as a one-off requirement. Temporary licensees are excluded.",
+  "explanation": "This is separate from the recurring annual requirement of no less than two CPT hours on ethics or compliance per calendar year. The exclusion of temporary licensees is part of the rule. (PDF p.122)"
+ },
+ {
+  "id": "t4-c2-f5",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "The Hong Kong Monetary Authority requirements for staff engaged in regulated activities",
+  "pageRef": 124,
+  "front": "How many executive officers must a registered institution appoint per type of regulated activity, and how many must be available at all times?",
+  "back": "At least two executive officers must be appointed in respect of each type of regulated activity, and at all times at least one executive officer must be available to supervise the business of the regulated activity concerned.",
+  "explanation": "Executive officers and relevant individuals are the registered institution equivalents of responsible officers and licensed representatives. Relevant individuals must have their names entered in a register maintained by the HKMA. (PDF p.124)"
+ },
+ {
+  "id": "t4-c2-f6",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Securities and Futures (Licensing and Registration) (Information) Rules",
+  "pageRef": 124,
+  "front": "By when must licensed persons submit their annual returns under the Securities and Futures (Licensing and Registration) (Information) Rules?",
+  "back": "Within one month of the anniversary date of licensing, or such other date as the SFC may approve.",
+  "explanation": "These rules also prescribe the information for applications, notifications of changes, and particulars for entry in the Public Register maintained by the SFC. Do not confuse this annual return with the monthly or half-yearly FRR financial returns. (PDF p.124)"
+ },
+ {
+  "id": "t4-c2-f7",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Paid-up share capital requirements",
+  "pageRef": 127,
+  "front": "What paid-up share capital must licensed corporations maintain under the FRR, and what applies when more than one regulated activity is conducted?",
+  "back": "Paid-up share capital of up to HK$30 million at all times, depending on the regulated activity (Table 1, Schedule 1, FRR). A corporation conducting more than one regulated activity must maintain the highest single requirement applicable to the individual activities.",
+  "explanation": "Approved introducing agents, and securities advisers, corporate finance advisers, asset managers and credit rating agencies which do not hold client assets, have no paid-up share capital requirement. The requirements are never summed across activities. (PDF p.127)"
+ },
+ {
+  "id": "t4-c2-f8",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Notifications to the SFC",
+  "pageRef": 128,
+  "front": "At what liquid capital levels must a licensed corporation notify the SFC in writing?",
+  "back": "If its liquid capital falls below 120% of the RLC, or falls below the RLC, or falls below 50% of the last liquid capital reported. Notification is also required if information in an earlier return has become materially false or misleading.",
+  "explanation": "Under s. 54, FRR the notification of a capital breach must state the reasons and the steps being taken to rectify it. A corporation that cannot comply with the liquid or paid-up share capital requirements must cease the regulated activity unless permitted by the SFC to carry on. (PDF p.128)"
+ },
+ {
+  "id": "t4-c2-f9",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Returns to the SFC",
+  "pageRef": 128,
+  "front": "How often must licensed corporations make FRR returns to the SFC, and which corporations get the reduced frequency?",
+  "back": "Monthly returns of liquid capital and RLC with supporting information for most licensed corporations; corporations licensed only for pure advising activities (Types 4, 5, 6, 9 and 10) not holding client assets need only make half-yearly returns containing financial statements with less specified detail.",
+  "explanation": "The returns must contain declarations specified by the SFC, and the SFC may also request information to assist in reviewing the FRR position. The same five pure-advising types not holding client assets also enjoy lower RLC requirements. (PDF p.128)"
+ },
+ {
+  "id": "t4-c2-f10",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Standing authority",
+  "pageRef": 130,
+  "front": "What are the time limits for a standing authority over client assets: maximum validity, deemed-renewal notice, and post-expiry confirmation?",
+  "back": "Maximum effective period of 12 months (no limit specified for a professional investor); deemed renewal requires written notice at least 14 days before the expiry date; written confirmation of the renewal must be provided within a week after the expiry date.",
+  "explanation": "A standing authority must be a written notice specifying how the assets may be dealt with and how it may be revoked, and renewal periods each must not exceed 12 months except for professional investors. Renewal can also occur on the client's written request at any time prior to expiry. (PDF p.130)"
+ },
+ {
+  "id": "t4-c3-f1",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Permitted transactions",
+  "pageRef": 133,
+  "front": "What is the limit on the value of re-pledged client securities collateral relative to aggregate margin loans, and by when must any excess be cured?",
+  "back": "The aggregate market value of re-pledged securities collateral (at that day's closing prices) must not exceed 140% of aggregate margin loans; any excess must be reduced to not more than 140% by the close of the next business day.",
+  "explanation": "This limit applies to intermediaries licensed for Type 1 (dealing in securities) and Type 8 (SMF) regulated activities. The value is ascertained by reference to the respective closing prices of the collateral on the relevant business day. (PDF p.133)"
+ },
+ {
+  "id": "t4-c3-f2",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Part 3 – Miscellaneous",
+  "pageRef": 133,
+  "front": "Within what period must non-compliance with the specified provisions of the Client Securities Rules be reported to the SFC?",
+  "back": "Within one business day after discovery.",
+  "explanation": "The reporting deadline runs from discovery of the non-compliance, not from when it occurred. The same one-business-day standard appears in the Client Money Rules for reporting segregated account failures. (PDF p.133)"
+ },
+ {
+  "id": "t4-c3-f3",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Application",
+  "pageRef": 134,
+  "front": "Within what period must a Type 13 licensed corporation deposit money of a CIS it receives into a designated trust or client account, and where must the account be held?",
+  "back": "Within three business days of receipt, into an account designated as a trust account or client account for the relevant CIS, established and maintained at an authorised financial institution or any other person approved by the SFC.",
+  "explanation": "Note the contrast with the one-business-day rule for other licensed corporations handling client money. Payments out of the account must follow the scheme documents or a written instruction, and no payment may be made to officers or employees of the licensed corporation, its associated entities or its controlling entity. (PDF p.134)"
+ },
+ {
+  "id": "t4-c3-f4",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Mode of treatment of client money on receipt",
+  "pageRef": 135,
+  "front": "Within what period of receiving client money must a licensed corporation or associated entity deal with it, and in what permitted ways?",
+  "back": "Within one business day, it must pay the money into a segregated account, to the client directly, in accordance with a written direction, or in accordance with a standing authority.",
+  "explanation": "Segregated accounts must each be designated as a trust or client account and maintained with an AFI or any other person approved by the SFC. Money then stays in the segregated account until a permitted payment, such as to the client or to meet settlement or margin requirements, falls due. (PDF p.135)"
+ },
+ {
+  "id": "t4-c3-f5",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Mode of treatment of client money on receipt",
+  "pageRef": 136,
+  "front": "How quickly must money that is NOT client money be paid out of a segregated account?",
+  "back": "Within one business day of the licensed corporation or associated entity becoming aware of the fact.",
+  "explanation": "Separately, a failure to open a segregated account, pay money into it or retain money in it must be reported to the SFC within one business day after becoming aware of the failure. Failures to pay money into or out of a segregated account as specified, without reasonable excuse or with intent to defraud, are an offence punishable by penalties and imprisonment. (PDF p.136)"
+ },
+ {
+  "id": "t4-c3-f6",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Retention time",
+  "pageRef": 138,
+  "front": "State the record retention periods: general rule, orders and instructions, copies of contract notes, and telephone recordings.",
+  "back": "General rule: at least 7 years. Records documenting orders and instructions received: at least 2 years (Keeping of Records Rules). Copies of contract notes: at least 2 years (Contract Notes Rules). Telephone recordings: minimum 6 months (Code of Conduct).",
+  "explanation": "Telephone recordings are excluded from the definition of a record in s. 2 of the Keeping of Records Rules and are instead covered by the Code of Conduct. The seven-year general rule yields where legislation specifies another period for particular records. (PDF p.138)"
+ },
+ {
+  "id": "t4-c3-f7",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Contract notes",
+  "pageRef": 139,
+  "front": "By when must a contract note be issued to the client or any designated person?",
+  "back": "No later than the end of the second business day after entering into the contract.",
+  "explanation": "Several contracts on the same day for the same client may be included in a single contract note or consolidated into the daily statement. Contract notes cover dealings in securities (including SBL transactions), dealings in futures contracts, and LFET. (PDF p.139)"
+ },
+ {
+  "id": "t4-c3-f8",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Monthly statements of account",
+  "pageRef": 141,
+  "front": "Within what period must monthly statements of account be issued, and what extension do asset managers get?",
+  "back": "Within seven business days of the end of each monthly accounting period (which may be a four-weekly cycle, not necessarily a calendar month); asset managers are allowed ten business days.",
+  "explanation": "The only case where no monthly statement is needed is where there is absolutely no activity on the account during the month and no balances at the end of it. An asset manager also does not need to prepare monthly statements for authorised CISs that it manages. (PDF p.141)"
+ },
+ {
+  "id": "t4-c3-f9",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Receipts",
+  "pageRef": 141,
+  "front": "By when must receipts be issued to a client after an intermediary or associated entity receives client assets or security?",
+  "back": "By the end of the second business day after receiving them (T+2).",
+  "explanation": "No receipts are required in some cases where the client has received satisfactory confirmation in other ways. This T+2 deadline matches the deadlines for issuing contract notes and daily statements of account. (PDF p.141)"
+ },
+ {
+  "id": "t4-c3-f10",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Other matters",
+  "pageRef": 142,
+  "front": "Under the Contract Notes Rules, how long must contract notes, daily statements and receipts be retained, how long must monthly statements be retained, and how quickly must compliance failures be notified to the SFC?",
+  "back": "Contract notes, daily statements of account and receipts: at least 2 years. Monthly statements of account: at least 7 years. Failures to comply with the specified provisions must be notified to the SFC within one business day of becoming aware.",
+  "explanation": "Failure to comply with the Contract Notes Rules without reasonable excuse is an offence punishable by a fine. Clients are also entitled to copies of these documents on request and, on application to the SFC and subject to its directions, to inspect copies kept by the intermediary. (PDF p.142)"
+ },
+ {
+  "id": "t4-c4-f1",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Dealing in securities (Type 1 regulated activity)",
+  "pageRef": 145,
+  "front": "Where in the SFO are \"securities\" defined, and where is \"dealing in securities\" formally defined?",
+  "back": "Securities are defined in Schedule 1, SFO; the formal definition of dealing in securities is in Schedule 5, SFO.",
+  "explanation": "Schedule 1 sets out the wide-ranging instrument definitions (shares, debentures, bonds, interests in CISs, certain structured products, etc.), while Schedule 5 defines the regulated activities themselves. (PDF p.145)"
+ },
+ {
+  "id": "t4-c4-f2",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Dealing in securities (Type 1 regulated activity)",
+  "pageRef": 145,
+  "front": "In which SFO provisions are \"derivatives\" defined for the purposes of market misconduct?",
+  "back": "s. 245, Part XIII and s. 285, Part XIV, SFO — in relation to listed securities, whether or not the derivatives themselves are listed.",
+  "explanation": "The market misconduct definition covers rights, options or interests in listed securities, profit/loss contracts referenced to their price, rights or interests in those, and instruments evidencing any of them. (PDF p.145)"
+ },
+ {
+  "id": "t4-c4-f3",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Approved introducing agent",
+  "pageRef": 148,
+  "front": "Under what provision is the \"approved introducing agent\" created, and what capital concessions does it receive?",
+  "back": "Created under s. 58(4), FRR (not defined in the SFO). It may maintain a lower level of liquid capital and is not required to maintain paid-up share capital.",
+  "explanation": "Approved introducing agents only receive and pass on client offers or introduce clients to exchange participants or other licensed dealers, do not handle client assets, and bear no legal liability for introduced business except their own negligence, wilful default or fraud — hence the reduced capital requirements. (PDF p.148)"
+ },
+ {
+  "id": "t4-c4-f4",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Dealing in futures contracts (Type 2 regulated activity)",
+  "pageRef": 149,
+  "front": "What does \"novation\" mean, and what does the definition of \"futures market\" expressly exclude?",
+  "back": "Novation is the legal change of counterparty in a contractual transaction. The term \"futures market\" excludes the office of a recognised clearing house.",
+  "explanation": "Novation or guarantee by a central counterparty under the market's rules or conventions, or the normal discharge of obligations before expiry, are the features that bring contracts and options within the futures market definition. (PDF p.149)"
+ },
+ {
+  "id": "t4-c4-f5",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Dealing in futures contracts (Type 2 regulated activity)",
+  "pageRef": 150,
+  "front": "Members of a commodity exchange in operation on which date are excepted from the definition of dealing in futures contracts?",
+  "back": "20 June 1973 — provided they only perform the relevant acts on such an exchange.",
+  "explanation": "This is one of the exceptions, alongside recognised clearing houses, persons acting through Type 2 licensees, principals dealing with PIs off recognised futures markets, Type 9 licensees acting solely for Type 9 purposes, and persons entering into market contracts. (PDF p.150)"
+ },
+ {
+  "id": "t4-c4-f6",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Leveraged foreign exchange trading (Type 3 regulated activity)",
+  "pageRef": 153,
+  "front": "Which SFO provision makes arbitration a condition of an LFET licence, and what does it require?",
+  "back": "s. 118(1)(b), SFO — if a client requires a dispute with the licensed trader about the carrying on of LFET to be settled by arbitration, the trader is obliged to have it so settled.",
+  "explanation": "The SFC has made the Securities and Futures (Leveraged Foreign Exchange Trading) (Arbitration) Rules, prescribing the Arbitration Panel's constitution, arbitrator selection, proceedings, termination and awards. (PDF p.153)"
+ },
+ {
+  "id": "t4-c4-f7",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Leveraged foreign exchange trading (Type 3 regulated activity)",
+  "pageRef": 152,
+  "front": "Who qualifies as a \"recognised counterparty\" under Schedule 1, SFO?",
+  "back": "(a) An AFI; (b) in relation to a particular transaction by a Type 3 licensee, another such licensee with whom it conducts the transaction; or (c) an institution recognised by the SFC under s. 397, SFO.",
+  "explanation": "Recognised counterparties are generally substantial institutions, and transactions LFE traders carry out with them get special treatment — notably, the counterparty is not considered a client of the LFE trader. (PDF p.152)"
+ },
+ {
+  "id": "t4-c4-f8",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Providing automated trading services (Type 7 regulated activity)",
+  "pageRef": 155,
+  "front": "What are the two routes in the SFO for providing ATS?",
+  "back": "(1) Authorisation under s. 95(2), SFO to provide ATS similar to the services of a recognised exchange or recognised clearing house; (2) licensing — or registration for an AFI — under Part V, SFO as a regulated activity.",
+  "explanation": "Under the Part V route, all provisions of the SFO and subsidiary legislation, codes and guidelines applicable to licensed and registered persons apply as appropriate. (PDF p.155)"
+ },
+ {
+  "id": "t4-c4-f9",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Securities margin financing (Type 8 regulated activity)",
+  "pageRef": 156,
+  "front": "At what shareholding level is an individual's lending to a company (to facilitate SMF) excepted from the SMF definition?",
+  "back": "Where the individual holds 10% or more of the company's issued shares.",
+  "explanation": "Other exceptions include accommodation for underwriting, sub-underwriting and acquisition under a prospectus, accommodation by an AFI for its clients' acquisitions or holdings, by a specified CIS to finance investment in the CIS it issues, and by an intermediary effecting an introduction to its related corporation. (PDF p.156)"
+ },
+ {
+  "id": "t4-c4-f10",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Securities margin financing (Type 8 regulated activity)",
+  "pageRef": 156,
+  "front": "Where are the SFC's standards of business practice for securities margin financiers principally stated?",
+  "back": "In the Code of Conduct (including Schedule 5) and the Contract Notes Rules.",
+  "explanation": "The standards include vetting clients' credit-worthiness, setting margin lending limits, lending ratios and margin call policies, prudent risk management and internal controls, ongoing monitoring reports, and disclosure to clients — e.g. contract notes and monthly statements must indicate that the client's account is a margin account. (PDF p.156)"
+ },
+ {
+  "id": "t4-c5-f1",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Re-pledging clients' securities collateral",
+  "pageRef": 158,
+  "front": "What is the limit on re-pledging client securities collateral for securities dealers and securities margin financiers licensed for Type 8 regulated activity?",
+  "back": "140% — a limit of 140% applies on re-pledging client securities collateral.",
+  "explanation": "Firms that re-pledge clients' securities collateral face additional requirements: the 140% re-pledging limit, certain changes to relevant haircut percentages, and additional disclosures to margin clients about the risks of pooling and pledging. (PDF p.158)"
+ },
+ {
+  "id": "t4-c5-f2",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Exemptions",
+  "pageRef": 164,
+  "front": "Below what aggregate notional amount of outstanding specified OTC derivative transactions is a licensed corporation exempt from the reporting obligation?",
+  "back": "US$30 million — aggregated across ALL product classes collectively; once exceeded, the exemption is lost permanently on the day the threshold is exceeded.",
+  "explanation": "The exemption applies only if the sum of notional amounts of all outstanding specified OTC derivative transactions to which the licensed corporation is a counterparty does not exceed US$30 million, and the position is assessed across all product classes collectively. The exemption, once lost, cannot be regained. (PDF p.164)"
+ },
+ {
+  "id": "t4-c5-f3",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Persons subject to the clearing obligation",
+  "pageRef": 167,
+  "front": "What is the clearing threshold under the OTCD Clearing Rules, and to whom does it effectively apply?",
+  "back": "US$20 billion (average total position in OTC derivative transactions); it effectively applies only to prescribed persons, since financial services providers are by definition regarded as significant market players.",
+  "explanation": "The clearing threshold catches larger and more significant participants because the regulatory objective is to address systemic risk. The calculation includes only positions in products covered by the OTCD Clearing Rules, is calculated over a specified period, and is subject to various exclusions. (PDF p.167)"
+ },
+ {
+  "id": "t4-c5-f4",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Consequence of breaches",
+  "pageRef": 165,
+  "front": "What is the maximum penalty for a licensed corporation that breaches the OTCD Reporting Rules, and which court imposes it?",
+  "back": "HK$5 million, imposed by the Court of First Instance (the SFC brings the licensed corporation before the Court).",
+  "explanation": "The same maximum penalty of HK$5 million before the Court of First Instance applies to breaches of the OTCD Clearing Rules, where the SFC may additionally consider imposing disciplinary sanctions in respect of the breach. (PDF p.165)"
+ },
+ {
+  "id": "t4-c5-f5",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Means and timing of reporting",
+  "pageRef": 163,
+  "front": "What is the general deadline for reporting OTC derivative transaction events, and what grace period applies to a licensed corporation that ceases to be exempt?",
+  "back": "T+2 (within two business days after any transaction events occur); a firm ceasing to be exempt may submit information no later than three months from the day it ceased to be exempt.",
+  "explanation": "The grace-period submission must include the transaction events that have occurred since the commencement of the grace period. While a transaction remains outstanding, valuation information must also be submitted on a daily basis. (PDF p.163)"
+ },
+ {
+  "id": "t4-c5-f6",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Record keeping obligations",
+  "pageRef": 164,
+  "front": "How long must records of specified OTC derivative transactions be kept?",
+  "back": "At least five years after the termination or maturity date of the transaction, irrespective of whether it was conducted partly or wholly outside Hong Kong; records must be readily accessible.",
+  "explanation": "The same five-year retention period applies to records demonstrating compliance with clearing obligations (or exemptions). A firm relying on a reporting exemption must still keep records sufficient to demonstrate the exemption was properly relied on. (PDF p.164)"
+ },
+ {
+  "id": "t4-c5-f7",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Mandatory clearing obligation",
+  "pageRef": 166,
+  "front": "Within what time must an OTC derivative transaction subject to the clearing obligation be cleared, and through what?",
+  "back": "Within one business day after the transaction is entered into, through a designated CCP (only recognised clearing houses under the SFO or persons authorised by the SFC to provide automated trading services are eligible to act as a CCP).",
+  "explanation": "If a person cannot clear in time, it must terminate the transaction to avoid breaching the OTCD Clearing Rules. A failure to comply does not affect the validity of the transaction but exposes the firm to a maximum HK$5 million penalty and possible disciplinary sanctions. (PDF p.166)"
+ },
+ {
+  "id": "t4-c5-f8r",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Legal Entity Identifiers",
+  "pageRef": 164,
+  "front": "What identifier must entities subject to the OTC derivative reporting obligation use in transaction reports submitted to the HKTR, and what is it?",
+  "back": "Their Legal Entity Identifier (LEI) — an identifier issued under the Global LEI System enabling the clear and unique identification of legal entities participating in financial transactions; it must be used in reports of new trades and daily valuation information reported on or after the implementation date.",
+  "explanation": "Besides basic information of legal entities, the LEI data pool is being gradually enhanced to include data of the direct and ultimate parents of the legal entities. (PDF p.164)"
+ },
+ {
+  "id": "t4-c5-f9",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Means and timing of reporting",
+  "pageRef": 163,
+  "front": "To whom and via what system must OTC derivative transaction information be reported?",
+  "back": "To the HKMA via the Hong Kong Trade Repository (HKTR) electronic reporting system operated by the HKMA; the reporting firm must become a member of the HKTR to make reports.",
+  "explanation": "Although the SFC makes the OTCD Reporting Rules under Part IIIA of the SFO, the HKMA specifies which OTC derivative transactions are subject to reporting and operates the HKTR through which all transaction information is reported. (PDF p.163)"
+ },
+ {
+  "id": "t4-c5-f10",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Persons subject to the clearing obligation",
+  "pageRef": 167,
+  "front": "How can a person who has crossed the clearing threshold escape the clearing obligation, and to whom is the notice given?",
+  "back": "By submitting an exit notice after its position has fallen below the clearing threshold by a specified amount for 12 consecutive months; the notice goes to the frontline regulator — the HKMA for AFIs or AMBs, the SFC for licensed corporations.",
+  "explanation": "Persons who reach the clearing threshold are otherwise regarded as having crossed it at all times thereafter. The exit notice route is available only where the person has changed their business model or trading profile so that the position stays below the threshold for the required 12-month period. (PDF p.167)"
+ },
+ {
+  "id": "t4-c6-f1",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Shareholder meetings and resolutions",
+  "pageRef": 170,
+  "front": "What is the minimum notice period for an ordinary general meeting of an OFC?",
+  "back": "Not less than 14 days (or such longer period as may be specified in the instrument of incorporation).",
+  "explanation": "Meetings must be called on sufficient notice given in accordance with the instrument of incorporation, which must be at least 14 days for an ordinary general meeting. Contrast this with special notice of not less than 28 days required in certain circumstances. (PDF p.170)"
+ },
+ {
+  "id": "t4-c6-f2",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Shareholder meetings and resolutions",
+  "pageRef": 170,
+  "front": "What is 'special notice' for an OFC general meeting, and when is it required?",
+  "back": "Not less than 28 days' notice; required where the proposed resolution concerns the removal or appointment of a director, or the removal of an auditor (Part 6, OFC Rules).",
+  "explanation": "Special notice doubles the ordinary 14-day minimum and protects key operators (directors and the auditor) from removal without adequate warning. Removal of a director or auditor also cannot be done by written resolution. (PDF p.170)"
+ },
+ {
+  "id": "t4-c6-f3",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Shareholder meetings and resolutions",
+  "pageRef": 170,
+  "front": "What majority is needed to pass a special resolution of an OFC?",
+  "back": "At least 75% of the shareholders who vote and cast their votes in favour (an ordinary resolution needs only a simple majority).",
+  "explanation": "The instrument of incorporation sets out which matters need an ordinary resolution and which need a special resolution. The 75% threshold is measured against shareholders who actually vote, not all shareholders. (PDF p.170)"
+ },
+ {
+  "id": "t4-c6-f4",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Shareholder meetings and resolutions",
+  "pageRef": 170,
+  "front": "What minimum shareholding entitles OFC shareholders to require the directors to call a general meeting?",
+  "back": "Shareholders holding at least 10% of the total voting rights of all shareholders; they may also require the inclusion of a proposed resolution at the meeting.",
+  "explanation": "Directors of the OFC have the power to call general meetings, and the 10% requisition right is the shareholders' route to force one. Do not confuse this with the 5% threshold for proposing a written resolution. (PDF p.170)"
+ },
+ {
+  "id": "t4-c6-f5",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Shareholder meetings and resolutions",
+  "pageRef": 170,
+  "front": "Who may propose a written resolution of an OFC, and what resolutions are excluded from the written procedure?",
+  "back": "The directors, or not less than 5% of shareholders (the instrument of incorporation may specify a smaller minimum). Resolutions to remove a director or an auditor cannot be passed by written resolution.",
+  "explanation": "A written resolution can be passed without the required notice period, which is why removal of a director or auditor — matters requiring 28 days' special notice — is excluded. A copy of the proposed written resolution must go to all shareholders, the auditor, the custodian and the investment manager. (PDF p.170)"
+ },
+ {
+  "id": "t4-c6-f6",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Knowledge check",
+  "pageRef": 174,
+  "front": "Within what time must a licensed corporation report to the SFC a failure relating to client money segregation under the Client Money Rules?",
+  "back": "Within one business day after becoming aware of the failure (to open a segregated account, pay money into it, or retain money in it as specified).",
+  "explanation": "The duty arises when the licensed corporation or associated entity becomes aware of the failure. Failing to comply with the requirements is an offence and will attract penalties. (PDF p.174)"
+ },
+ {
+  "id": "t4-c6-f7",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Knowledge check",
+  "pageRef": 174,
+  "front": "What is the RLC (required liquid capital) of a licensed corporation?",
+  "back": "The minimum excess of liquid assets over ranking liabilities which the licensed corporation is required to maintain.",
+  "explanation": "Because the RLC must be maintained at all times, the corporation must be aware of its financial position at all times — in practice, reviewing its liquidity position whenever there is a material adverse movement in its liquid assets and ranking liabilities. (PDF p.174)"
+ },
+ {
+  "id": "t4-c6-f8",
+  "type": "flashcard",
+  "topic": 4,
+  "section": "Operators of the OFC - Custodian",
+  "pageRef": 171,
+  "front": "What approval is needed before the directors of an OFC appoint a new custodian or a new investment manager?",
+  "back": "The prior approval of the SFC in both cases.",
+  "explanation": "The original custodian and investment manager are identified in the documents first provided to the SFC with the registration application; any replacement appointed by the directors thereafter requires the SFC's prior approval. A custodian ceasing to act must also make a statement about circumstances to be brought to shareholders' or creditors' attention, with a copy to the SFC. (PDF p.171)"
+ },
+ {
+  "id": "t5-c1-f1",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "The nine general principles",
+  "pageRef": 182,
+  "front": "How many general principles is the Code of Conduct based on, and what are they?",
+  "back": "Nine: (1) honesty and fairness; (2) diligence; (3) capabilities; (4) information about clients; (5) information for clients; (6) conflicts of interest; (7) compliance; (8) client assets; (9) responsibility of senior management.",
+  "explanation": "The Code of Conduct is the core code on which all the other SFC codes are based; it states nine general principles which are expanded in subsequent sections, with additional provisions on issues such as professional investors and analysts. Knowing the full list lets you spot distractors such as \"best execution\", which is a diligence sub-requirement, not a general principle. (PDF p.182)"
+ },
+ {
+  "id": "t5-c1-f2",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "General Principle 2 – diligence",
+  "pageRef": 184,
+  "front": "For how long must telephone recordings of client orders be maintained, and what is the rule on mobile phones for receiving orders?",
+  "back": "Recordings must be maintained for at least six months. Mobile phone use for client order instructions is strongly discouraged and should be prohibited on the trading floor, in the trading room and at the usual place of business where orders are received or business is conducted; orders taken by mobile outside those areas must be recorded immediately by a call to the office telephone recording system.",
+  "explanation": "Paragraph 3.9, Code of Conduct requires a telephone recording system for orders received by telephone. The six-month retention period is a frequently tested hard number, and the immediate call-back recording rule applies only when a mobile order is taken outside the restricted areas. (PDF p.184)"
+ },
+ {
+  "id": "t5-c1-f3",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Know your client",
+  "pageRef": 185,
+  "front": "Under the Client Identity Rule Policy, within what time must a licensed or registered person provide the SFC with information on the identity of ultimate clients?",
+  "back": "Within two business days of the SFC's request. Compliance within this period satisfies the client identity requirements; failure to comply reflects adversely on the person's fitness and properness.",
+  "explanation": "The Client Identity Rule Policy explains how the SFC enforces the client identity requirements in paragraph 5.1 and Schedule 2 (Client Identity Guidance Note) of the Code of Conduct. The Policy also recognises commercial circumstances that may make it difficult to obtain the information. Do not confuse this two-business-day limit with the three-trading-day OTC reporting deadline. (PDF p.185)"
+ },
+ {
+  "id": "t5-c1-f4",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Investor identification regime",
+  "pageRef": 188,
+  "front": "What is the time allowed for an intermediary to report an OTC securities transaction (not subject to OE Trade Reporting) to the SFC, and what information must be provided?",
+  "back": "Three Hong Kong trading days after the trade. The report must include the intermediary's CE number, details of the securities traded, the CID of the client involved in the transfer, and the CE number of any other SFC-licensed intermediary involved in the trade.",
+  "explanation": "Only transfers of ordinary shares and units of real estate investment trusts listed on the SEHK that are subject to (and not exempt from) Hong Kong stamp duty are reportable, plus deposits or withdrawals of physical share certificates. Transfers made under the terms of a structured product or derivative, or for converting a depository receipt into shares (or vice versa), are not reportable. (PDF p.188)"
+ },
+ {
+  "id": "t5-c1-f5",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Client agreements",
+  "pageRef": 189,
+  "front": "Under the mail approach to verifying a new individual client's identity without a face-to-face meeting, what is the minimum cheque amount required?",
+  "back": "A cheque for not less than HK$10,000, issued by the new client in his name as shown in his identity document, drawn on the client's account with a licensed bank in Hong Kong and duly paid, with the signature on the cheque matching the signature on the client agreement.",
+  "explanation": "The mail approach also requires obtaining a copy of the client's identity document and a copy of the signed client agreement. It is one of the methods acceptable to the SFC when the client agreement is not entered into in a face-to-face meeting, alongside certification by other persons, ETO certification services and online onboarding using a designated Hong Kong bank account. (PDF p.189)"
+ },
+ {
+  "id": "t5-c1-f6",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "General Principle 1 – honesty and fairness",
+  "pageRef": 183,
+  "front": "Which two sections of the Prevention of Bribery Ordinance (POBO) must licensed or registered persons particularly comply with, and what does each cover?",
+  "back": "Section 8, POBO – bribery of public servants by persons having dealings with public bodies. Section 9, POBO – corrupt transactions with agents: it is an offence for an agent (such as a licensed or registered person) to solicit or accept unfair advantages which might induce him not to act in the best interests of his client, and an offence to offer an advantage to an agent.",
+  "explanation": "This falls under General Principle 1 (honesty and fairness), which also requires accurate and not misleading representations, fair and reasonable charges, and invitations and advertisements that are not false, misleading or deceptive and contain no derogatory comments about others' products. A representative acting as agent should not, without his principal's permission, solicit or receive an advantage such as money, gift, employment, service or favour. (PDF p.183)"
+ },
+ {
+  "id": "t5-c1-f7",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Introduction",
+  "pageRef": 180,
+  "front": "Which SFC code applies to each of: discretionary management of CISs, advising on corporate finance, and providing credit rating services?",
+  "back": "FMCC – discretionary management of collective investment schemes (Type 9). CFA Code – advising on corporate finance (Type 6). CRA Code – providing credit rating services (Type 10). The Code of Conduct is generally applicable to all licensed and registered persons.",
+  "explanation": "The OFC Code applies to funds established in Hong Kong as an incorporated company with limited liability and variable capital and to their key operators (directors, the investment manager and the custodian), while the Code of Conduct for Share Registrars covers no specific regulated activity but is relevant to listed companies and hence to Type 6. This code-to-activity mapping is core exam material. (PDF p.180)"
+ },
+ {
+  "id": "t5-c1-f8",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Investor identification regime",
+  "pageRef": 188,
+  "front": "What is the difference between a BCAN and a CE number, and who assigns each?",
+  "back": "BCAN (Broker-to-Client Assigned Number): a unique and permanent number assigned by the intermediary to each client. CE number (central entity number): a unique number assigned to the intermediary by the SFC. When submitting an on-exchange order to the SEHK, the intermediary must submit the BCAN and CID in a \"BCAN-CID Mapping File\" to the SEHK's data repository, and the order must include the intermediary's CE number.",
+  "explanation": "The intermediary must also maintain up-to-date client identification data (CID), including the client's name and details of the identity document used to verify identity, and ensure individual clients have given prior consent to the use of their data with appropriate security measures in place. These requirements also apply to off-exchange orders reportable under OE Trade Reporting. (PDF p.188)"
+ },
+ {
+  "id": "t5-c1-f9",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Client agreements",
+  "pageRef": 189,
+  "front": "Who may certify the signing of a client agreement when it is not entered into face-to-face, and in what language must the client agreement be?",
+  "back": "Certification may be given by another licensed or registered person, a Justice of the Peace, or a professional person (a branch manager of a bank, certified public accountant, lawyer, notary public or chartered secretary). The client agreement must be in writing, in Chinese or English at the option of the client, and copied to the client with attention drawn to the relevant risks.",
+  "explanation": "Certification by other persons is one of the methods acceptable to the SFC for non-face-to-face account opening, along with ETO certification services (Hongkong Post provides ETO certification with digital signatures), the mail approach (minimum HK$10,000 cheque) and online onboarding using a designated bank account in Hong Kong. (PDF p.189)"
+ },
+ {
+  "id": "t5-c2-f1",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Remote onboarding of clients",
+  "pageRef": 190,
+  "front": "What is the minimum initial deposit a licensed or registered person must receive into its own bank account when remotely onboarding a client?",
+  "back": "Not less than HK$10,000 — from a bank account in the client's name with a licensed bank in Hong Kong (or, for overseas individual clients, HK$10,000 or an equivalent amount in other currencies from the client's bank account with an overseas bank supervised by a banking regulator in an eligible jurisdiction).",
+  "explanation": "The transfer must successfully arrive in the firm's own bank account, and all future deposits and withdrawals for the trading account must go only through the client's designated bank account(s). The same monetary floor applies to both Hong Kong and overseas individual clients. (PDF p.190)"
+ },
+ {
+  "id": "t5-c2-f2",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Remote onboarding of overseas individual clients",
+  "pageRef": 190,
+  "front": "How often must a firm assess whether the processes and technologies it uses for remote onboarding of overseas individual clients are appropriate and effective, and who must perform the assessment?",
+  "back": "Comprehensive assessments must be conducted prior to implementation and at least annually thereafter, by qualified, competent and independent assessors.",
+  "explanation": "This is one of the listed conditions for remote onboarding of overseas individual clients, alongside authenticating identity documents, obtaining an electronically signed client agreement, and keeping proper, readily accessible records of each client's account opening process. (PDF p.190)"
+ },
+ {
+  "id": "t5-c2-f3",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Discretionary accounts",
+  "pageRef": 192,
+  "front": "How often must a discretionary account authority be confirmed with the client, and how may it be renewed?",
+  "back": "It should be confirmed annually; the firm may notify the client before the expiry date that the authority will be automatically renewed unless the client specifically revokes it in writing before the expiry date.",
+  "explanation": "Other requirements for discretionary accounts include that the client's authority be in writing, the account be designated as discretionary, senior management approve its opening, and benefits received be disclosed in writing at account opening or before entering the discretionary client agreement. (PDF p.192)"
+ },
+ {
+  "id": "t5-c2-f4",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Risk disclosure statements",
+  "pageRef": 193,
+  "front": "How often must a client's authority to re-pledge his securities collateral be renewed, and who is exempt from this renewal requirement?",
+  "back": "Such authorities need to be renewed annually, unless the client is a PI (professional investor).",
+  "explanation": "The related risk disclosure statement also warns that if the licensed or registered person defaults, the client could lose his securities. The annual renewal requirement is a key time limit tested alongside the annual confirmation of discretionary account authorities. (PDF p.193)"
+ },
+ {
+  "id": "t5-c2-f5",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "General Principle 5 – information for clients",
+  "pageRef": 195,
+  "front": "What must be disclosed where monetary benefits received by a licensed or registered person are NOT quantifiable prior to or at the point of entering into the transaction?",
+  "back": "The existence and nature of the benefits, together with the maximum percentage of the monetary benefit receivable per year — disclosed on a transaction-by-transaction basis (a One-off Disclosure is not possible).",
+  "explanation": "By contrast, quantifiable monetary benefits require a specific disclosure of the benefit (including any trading profit on a back-to-back transaction), and non-monetary benefits require disclosure of their existence and nature. (PDF p.195)"
+ },
+ {
+  "id": "t5-c2-f6",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Rebates, soft dollars, and connected transactions (paragraph 13)",
+  "pageRef": 198,
+  "front": "Name the goods and services the SFC will NOT permit a licensed or registered person to receive as soft dollars.",
+  "back": "Travel; accommodation; entertainment; general administrative goods or services; general office equipment or premises; membership fees; employee salaries; and direct cash payments.",
+  "explanation": "Permitted items, by contrast, include research and advisory services, economic and political analysis, portfolio analysis (including valuations and performance measurement), market analysis, data and quotation services, incidental computer hardware and software, clearing and custodial services, and investment-related publications. Disclosure of soft-dollar practices, including a description of goods and services received, must be made to the client at least annually. (PDF p.198)"
+ },
+ {
+  "id": "t5-c2-f7",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Rebates, soft dollars, and connected transactions (paragraph 13)",
+  "pageRef": 199,
+  "front": "How frequently must cash rebates and their approximate values be disclosed to the client?",
+  "back": "At least twice annually, or in each contract note.",
+  "explanation": "Other rebate conditions: the firm must have described its rebate practices and obtained the client's written consent to receiving and retaining the rebates (which may be in the client agreement or other investment management agreement), brokerage rates must not exceed customary full-service rates, and details of goods and services received must be disclosed at least annually. (PDF p.199)"
+ },
+ {
+  "id": "t5-c2-f8",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Analysts (paragraph 16)",
+  "pageRef": 200,
+  "front": "Within what periods around the issue of a research report should analysts' dealings be limited, and what happens if an analyst has dealt within the pre-issue period?",
+  "back": "Dealing limitations apply within 30 days before and three business days after the issue of the research; where an analyst has dealt within the 30-day period, the research should be withheld.",
+  "explanation": "Firms must establish appropriate written policies and control procedures covering dealings by analysts and their associates (e.g. a spouse, minor children and certain trust arrangements), including limitations on dealing contrary to an analyst's outstanding recommendation. (PDF p.200)"
+ },
+ {
+  "id": "t5-c2-f9",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Analysts (paragraph 16)",
+  "pageRef": 200,
+  "front": "What is the \"quiet period\" during which a firm acting as manager, sponsor or underwriter of a public offering should not issue research?",
+  "back": "The 40 days following pricing of an IPO, or the ten days following pricing of a secondary public offering.",
+  "explanation": "The prohibition does not apply if issuing research on the company or new listing applicant is part of the firm's normal course of business. Do not confuse the 40-day quiet period with the 30-day pre-issue restriction on analysts' own dealings. (PDF p.200)"
+ },
+ {
+  "id": "t5-c3-f1",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Individual PIs",
+  "pageRef": 207,
+  "front": "What is the minimum portfolio an individual must have to qualify as an Individual Professional Investor under the PI Rules?",
+  "back": "A portfolio of not less than HK$8 million (or its equivalent in any foreign currency), counting the individual's own account, joint accounts with an associate, the individual's share of joint accounts with non-associates, and a portfolio held by a wholly owned investment-holding corporation.",
+  "explanation": "The HK$8 million threshold can be met by aggregating any one or more of the four permitted holding arrangements. \"Portfolio\" means securities, certificates of deposit issued by a regulated bank, or money. (PDF p.207)"
+ },
+ {
+  "id": "t5-c3-f2",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Corporate PIs",
+  "pageRef": 207,
+  "front": "What are the monetary thresholds for trustee companies and for corporations/partnerships to qualify as Corporate PIs?",
+  "back": "Trustee companies: responsible for total assets of not less than HK$40 million. Corporations or partnerships: either a portfolio of not less than HK$8 million OR total assets of not less than HK$40 million (or foreign currency equivalents).",
+  "explanation": "The corporation/partnership tests are alternatives – meeting either one suffices. Wholly owned investment holding companies of qualifying persons and corporations which wholly own a qualifying corporation can also be Corporate PIs. (PDF p.207)"
+ },
+ {
+  "id": "t5-c3-f3",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Notifications to the SFC (paragraph 12.5)",
+  "pageRef": 203,
+  "front": "When must a licensed or registered person report matters listed in paragraph 12.5 of the Code of Conduct (e.g. material breaches, insolvency situations, disciplinary actions) to the SFC?",
+  "back": "Immediately upon discovery.",
+  "explanation": "The reportable matters include material or suspected material breaches of laws, rules and codes; insolvency situations affecting the firm, its substantial shareholders or directors; disciplinary actions by regulators; material problems with business systems or equipment; suspected material breaches of SFO market misconduct provisions by clients; and any determination or settlement of a complaint with the FDRS. (PDF p.203)"
+ },
+ {
+  "id": "t5-c3-f4",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "General Principle 9 – responsibility of senior management",
+  "pageRef": 205,
+  "front": "List the eight managers-in-charge (MIC) core functions identified by the SFC for licensed corporations.",
+  "back": "(1) Overall management oversight; (2) key business line; (3) operational control and review; (4) risk management; (5) finance and accounting; (6) information technology; (7) compliance; (8) anti-money laundering and counter-terrorist financing.",
+  "explanation": "Senior management of a licensed corporation comprises all directors (including shadow directors), responsible officers, and each individual principally responsible for one or more of the eight MIC core functions. An MIC need not be a licensed representative, but changes to an MIC's appointment must be notified to the SFC as for licensed staff. (PDF p.205)"
+ },
+ {
+  "id": "t5-c3-f5",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Provisions of the SFO not applicable to PIs",
+  "pageRef": 208,
+  "front": "From which SFO provisions are ALL categories of professional investor excluded?",
+  "back": "s. 174, SFO (unsolicited calls – PIs may be cold-called) and s. 175, SFO (requirements for offers by intermediaries or representatives).",
+  "explanation": "These exclusions apply to Institutional, Corporate and Individual PIs alike. The PI definition may also be relevant for certain licensing and product authorisation purposes. (PDF p.208)"
+ },
+ {
+  "id": "t5-c3-f6",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Corporate PIs",
+  "pageRef": 210,
+  "front": "After how long a period of no investment activity in a particular product or market must an additional PI assessment of a Corporate PI be undertaken?",
+  "back": "More than two years.",
+  "explanation": "Separate assessments should be made for different product types or markets where relevant. All assessments made for applying PI exemptions must be recorded in writing and the relevant documentation kept. (PDF p.210)"
+ },
+ {
+  "id": "t5-c3-f7",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Conduct requirements in relation to over-the-counter derivative (\"OTCD\") transactions",
+  "pageRef": 211,
+  "front": "What are the two new regulated activities introduced in the SFO for OTC derivatives, and when will they take effect?",
+  "back": "Type 11: dealing in OTC derivative products or advising on OTC derivative products. Type 12: providing client clearing services for OTC derivative transactions. They will be implemented when the relevant commencement notice is issued.",
+  "explanation": "These activities form part of the post-2008 reform that introduced Part IIIA of the SFO, supported by detailed subsidiary legislation, to reduce systemic risks in the OTCD market through reporting, trading and clearing requirements. (PDF p.211)"
+ },
+ {
+  "id": "t5-c3-f8",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Mitigating risk in OTCD transactions that are not centrally cleared",
+  "pageRef": 212,
+  "front": "What are the four key areas of the SFC's risk mitigation requirements for non-centrally cleared OTCD transactions, and where are they set out?",
+  "back": "Documentation, valuation, portfolio matters and handling of disputes – set out in Part I, Schedule 10 of the Code of Conduct.",
+  "explanation": "The requirements apply only to OTCD transactions that are not centrally cleared, and they apply to licensed corporations (a contracting counterparty, or a Type 9 asset manager managing a portfolio of NCC OTCDs for a CIS); they do not apply to registered persons. (PDF p.212)"
+ },
+ {
+  "id": "t5-c4-f1",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Margin requirements for non-centrally cleared OTCD transactions",
+  "pageRef": 215,
+  "front": "Where VM needs to be exchanged for NCC OTCD transactions, how often must it be calculated and when must it be collected?",
+  "back": "VM must be calculated at least on a daily basis and collected as soon as practicable.",
+  "explanation": "This applies where the average aggregate notional amount of NCC OTCDs exceeds the relevant thresholds so that IM and VM must generally be exchanged. The daily-calculation rule applies specifically to VM, which tracks current mark-to-market exposure. (PDF p.215)"
+ },
+ {
+  "id": "t5-c4-f2",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Margin requirements for non-centrally cleared OTCD transactions",
+  "pageRef": 214,
+  "front": "Which parties are specifically excluded from the definition of \"covered entity\" under the NCC OTCD margin requirements?",
+  "back": "Sovereigns, public sector entities, multilateral development banks as specified by the HKMA, and the Bank for International Settlements.",
+  "explanation": "\"Covered entity\" otherwise includes both financial and non-financial counterparties that, together with their group companies, have an average aggregate notional amount of NCC OTCD exceeding the relevant thresholds. These named public-sector-type bodies are carved out. (PDF p.214)"
+ },
+ {
+  "id": "t5-c4-f3",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Margin requirements for non-centrally cleared OTCD transactions",
+  "pageRef": 214,
+  "front": "Who regulates registered institutions in respect of IM and VM requirements for NCC OTCD transactions?",
+  "back": "The HKMA — the Code of Conduct IM/VM requirements do not apply to registered institutions.",
+  "explanation": "The Code of Conduct margin requirements apply to licensed persons contracting with covered entities, subject to de minimis thresholds. A registered institution may nevertheless be regarded as a financial counterparty when a licensed person determines its own IM/VM obligations. (PDF p.214)"
+ },
+ {
+  "id": "t5-c4-f4",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Schedules specifying additional conduct requirements for dealings on The Stock Exchange of Hong Kong Limited and the Hong Kong Futures Exchange Limited, in securities margin financing, leveraged foreign exchange trading, electronic trading and ALPs",
+  "pageRef": 217,
+  "front": "Which regulated activity types are covered by Schedule 5 (margin lending) and Schedule 6 (leveraged foreign exchange trading) of the Code of Conduct?",
+  "back": "Schedule 5: securities margin financiers (Type 8) and securities dealers conducting margin financing (Type 1), plus their representatives. Schedule 6: leveraged foreign exchange traders (Type 3).",
+  "explanation": "These schedules specify conduct and operational requirements for the named activities. By contrast, Schedule 7 covers electronic trading, Schedule 8 covers alternative liquidity pools, and Schedule 11 covers Type 13 regulated activity. (PDF p.217)"
+ },
+ {
+  "id": "t5-c4-f5",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Schedules specifying additional conduct requirements for dealings on The Stock Exchange of Hong Kong Limited and the Hong Kong Futures Exchange Limited, in securities margin financing, leveraged foreign exchange trading, electronic trading and ALPs",
+  "pageRef": 218,
+  "front": "Schedule 11 of the Code of Conduct sets out additional requirements for which regulated activity?",
+  "back": "Type 13 regulated activity — providing depositary services for relevant CISs.",
+  "explanation": "Schedule 11 applies to persons licensed or registered for Type 13 regulated activity. It sits alongside Schedule 7 (electronic trading) and Schedule 8 (alternative liquidity pools) among the conduct schedules. (PDF p.218)"
+ },
+ {
+  "id": "t5-c4-f6",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Fund Manager Code of Conduct",
+  "pageRef": 224,
+  "front": "Under the FMCC, what are the time limits for personal account dealing permission and the minimum holding period for personal investments by relevant persons?",
+  "back": "Prior written permission (from the compliance officer or other designated person) is valid for no more than five trading days; personal investments must be held for at least 30 days unless prior written approval is obtained.",
+  "explanation": "These FMCC guidelines for relevant persons closely reflect those in the Code of Conduct and must be included in the Fund Manager's internal rules. As a minimum the guidelines cover trading in securities and derivatives, but may extend to other investments. (PDF p.224)"
+ },
+ {
+  "id": "t5-c4-f7",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Fund Manager Code of Conduct",
+  "pageRef": 225,
+  "front": "How often should senior management ensure the Fund Manager's performance in managing funds is reviewed?",
+  "back": "At least annually, whether the funds are authorised or unauthorised.",
+  "explanation": "Senior management responsibilities under the FMCC are generally similar to those in the Code of Conduct, with this annual performance review obligation as an addition. The review covers the Fund Manager's performance in managing funds whether authorised or unauthorised. (PDF p.225)"
+ },
+ {
+  "id": "t5-c4-f8",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Fund Manager Code of Conduct",
+  "pageRef": 222,
+  "front": "Under the FMCC, which type of cross trade is prohibited outright, and what consent is needed for cross trades between the house account and client accounts?",
+  "back": "Cross trades between staff personal accounts and client accounts are prohibited. House account–client account cross trades require the prior written consent of the client, with disclosure of any actual or potential conflicts of interest.",
+  "explanation": "Cross trades between client accounts are permitted if conducted fairly so that no client is disadvantaged, and the client must be informed of them. \"Client\" here also includes investors of discretionary accounts managed by the same Fund Manager. (PDF p.222)"
+ },
+ {
+  "id": "t5-c5-f1",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Rating methodology",
+  "pageRef": 230,
+  "front": "How often must a CRA review a rating target's creditworthiness, in any event?",
+  "back": "At least annually.",
+  "explanation": "A CRA should monitor issued ratings on an ongoing basis and update them as necessary (except where a rating clearly indicates it does not entail ongoing surveillance), but in any event must review the rating target's creditworthiness at least annually. (PDF p.230)"
+ },
+ {
+  "id": "t5-c5-f2",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Rating methodology",
+  "pageRef": 231,
+  "front": "How often must a CRA's methodologies and models be formally reviewed, and what must happen to the findings?",
+  "back": "A rigorous and formal review at least annually; findings must be recorded in writing and copied to the SFC upon completion.",
+  "explanation": "This applies to the CRA's methodologies and models and any significant changes made to them. The written findings must be copied to the SFC when the review is completed. (PDF p.231)"
+ },
+ {
+  "id": "t5-c5-f3",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Independence and conflicts of interest",
+  "pageRef": 231,
+  "front": "Under the CRA Code, who counts as an \"immediate relation\" of a CRA representative?",
+  "back": "A spouse, partner, parent, child, or sibling.",
+  "explanation": "A representative whose immediate relation currently works for a rated entity should not be involved in or in any way influence the rating of that rating target. (PDF p.231)"
+ },
+ {
+  "id": "t5-c5-f4",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Personal account dealings",
+  "pageRef": 229,
+  "front": "Under the CFA Code, who monitors personal account dealings, and what system must be maintained?",
+  "back": "All personal account dealings are monitored by the designated compliance officer; a watch list and restricted list system must be maintained for monitoring personal account dealings and proprietary trading.",
+  "explanation": "The CFA Code's personal account dealing provisions apply to \"relevant persons\" — employees or directors likely to have access to confidential information on a matter where the adviser is advising on corporate finance. (PDF p.229)"
+ },
+ {
+  "id": "t5-c5-f5",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Code on Open-Ended Fund Companies",
+  "pageRef": 234,
+  "front": "Who are the key operators of an OFC?",
+  "back": "Its director(s), investment managers and custodian.",
+  "explanation": "The OFC Code applies to both public and private OFCs and their key operators. Public OFCs and their key operators must additionally comply with the SFC Handbook for Unit Trusts and Mutual Funds, Investment-Linked Assurance Schemes and Unlisted Structured Investment Products. (PDF p.234)"
+ },
+ {
+  "id": "t5-c5-f6",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Investment manager",
+  "pageRef": 236,
+  "front": "For how long must an OFC's investment manager retain its trading, accounting and other records, and where?",
+  "back": "For a period of not less than seven years, in premises approved by the SFC.",
+  "explanation": "The records must be sufficient to explain and reflect the financial position and operation of the investment manager's activities, and sufficient to enable an audit to be properly carried out. (PDF p.236)"
+ },
+ {
+  "id": "t5-c5-f7",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Audit and annual accounts",
+  "pageRef": 237,
+  "front": "Within what period must an OFC's audited accounts be disclosed?",
+  "back": "Annually, within four months of the OFC's financial year end.",
+  "explanation": "The auditor must be independent of the investment manager, the custodian and the directors of the OFC, and accounts must be prepared on the basis of Hong Kong Financial Reporting Standards or International Financial Reporting Standards (or another basis approved by the SFC case by case). (PDF p.237)"
+ },
+ {
+  "id": "t5-c5-f8",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "The CRA's own code of conduct",
+  "pageRef": 233,
+  "front": "What must a CRA do with its own code of conduct (\"House Code\"), and who must be identified?",
+  "back": "The House Code must fully implement the specific provisions of the CRA Code, be disclosed to the public on the CRA's webpage, and indicate how it will be enforced; one person must be identified as a compliance officer responsible for compliance matters.",
+  "explanation": "The compliance officer is responsible for ensuring the CRA and its employees comply with both the House Code and any applicable law, rules, regulations, codes and other requirements. (PDF p.233)"
+ },
+ {
+  "id": "t5-c6-f1",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Fund operations and disclosure",
+  "pageRef": 238,
+  "front": "Within what time limit must an OFC file changes to its offering document with the SFC?",
+  "back": "Within seven days of issuing the revised offering document. (The original offering document must be filed with the SFC as soon as practicable following its issuance.)",
+  "explanation": "An OFC files its offering document with the SFC as soon as practicable after issuance, but any subsequent changes are subject to a hard deadline of seven days from issuing the revised document. (PDF p.238)"
+ },
+ {
+  "id": "t5-c6-f2",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Custody arrangements",
+  "pageRef": 239,
+  "front": "For how long must a custodian of a private OFC keep accounting and other records, and where must they be kept?",
+  "back": "Not less than seven years, kept in the designated premises approved by the SFC. The records must provide an audit trail for all scheme property under custody and demonstrate compliance with all applicable regulatory requirements.",
+  "explanation": "The seven-year minimum retention period and the requirement that records be kept at SFC-approved designated premises are hard requirements on private OFC custodians, supporting an audit trail for all scheme property that is or has been under custody. (PDF p.239)"
+ },
+ {
+  "id": "t5-c6-f3",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "The Code of Conduct for Share Registrars",
+  "pageRef": 241,
+  "front": "What must a share registrar do to be 'approved' to maintain a register of shareholders or warrant-holders of a listed company in Hong Kong?",
+  "back": "It must be a member of the Federation of Share Registrars Limited. The Listing Rules state that only an approved share registrar may be employed for this purpose, and approved registrars are subject to The Code of Conduct for Share Registrars issued by the SFC in consultation with the Federation.",
+  "explanation": "Membership of the Federation of Share Registrars Limited is the approval condition; the Listing Rules then restrict listed companies to using approved registrars, who are bound by the SFC-issued code. (PDF p.241)"
+ },
+ {
+  "id": "t5-c6-f4",
+  "type": "flashcard",
+  "topic": 5,
+  "section": "Knowledge check answers",
+  "pageRef": 243,
+  "front": "What is the difference between a public OFC and a private OFC?",
+  "back": "A public OFC is one that has applied for, or will apply for, authorisation under s. 104, SFO; a private OFC will not make any application under that section.",
+  "explanation": "The distinction turns entirely on s. 104, SFO authorisation: public OFCs seek (or will seek) it, while private OFCs do not apply under that section at all. (PDF p.243)"
+ },
+ {
+  "id": "t6-c1-f1",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "The eight key areas",
+  "pageRef": 248,
+  "front": "What are the eight key areas of internal control and management systems identified in the ICG?",
+  "back": "Management and supervision; segregation of duties and functions; personnel and training; information management; compliance; audit; operational controls; and risk management.",
+  "explanation": "The ICG identify these eight key areas (collectively \"internal controls\") to match the nine general principles of conduct in the Code of Conduct. Each key area is presented as an initial objective supplemented by control guidelines on how it may be achieved. (PDF p.248)"
+ },
+ {
+  "id": "t6-c1-f2",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Application and effects",
+  "pageRef": 248,
+  "front": "Do the ICG have the force of law, and what happens if a licensed person fails to observe them?",
+  "back": "No force of law — a failure to observe them is not an offence leading to prosecution, but a failure to follow their substance may reflect adversely on the person's fitness and properness to continue to be licensed or registered.",
+  "explanation": "The ICG are like the codes in this respect. The practical sanction is regulatory, going to fitness and properness, rather than criminal prosecution. (PDF p.248)"
+ },
+ {
+  "id": "t6-c1-f3",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Internal control and internal management systems",
+  "pageRef": 249,
+  "front": "Internal controls give a licensed or registered person reasonable assurance that it can do which four things?",
+  "back": "(a) Operate its business in an orderly and efficient manner; (b) safeguard the assets of its clients and its own; (c) maintain proper records and reliable financial and other information; and (d) comply with all applicable laws and regulatory requirements.",
+  "explanation": "Internal controls are the entire system of policies, procedures, checks, controls and division of responsibilities installed to run the business. These four assurances are the stated purposes of that system. (PDF p.249)"
+ },
+ {
+  "id": "t6-c1-f4",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Information management",
+  "pageRef": 252,
+  "front": "When must a licensed corporation obtain prior SFC approval in connection with an external electronic data storage provider (\"EDSP\")?",
+  "back": "Where the licensed corporation intends not to store its records as required by relevant laws and regulations but exclusively with an EDSP. Using an EDSP never relieves the firm of its record keeping obligations under the SFO or AMLO.",
+  "explanation": "Firms using EDSPs must also conduct proper due diligence on the EDSP's controls, ensure it maintains a proper information security policy, ensure well-defined responsibilities between the parties, and be aware of concentration risk where the EDSP serves a large number of financial firms. (PDF p.252)"
+ },
+ {
+  "id": "t6-c1-f5",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Compliance",
+  "pageRef": 252,
+  "front": "For anti-bribery policies, which statutory definition of \"advantages\" must an intermediary adopt?",
+  "back": "The statutory definition of \"advantages\" as stated in s. 2(1) of the Prevention of Bribery Ordinance.",
+  "explanation": "The compliance objective requires the intermediary to establish anti-bribery policies and codes of conduct with essential probity requirements for its directors, staff members and agents, adopting this statutory definition. (PDF p.252)"
+ },
+ {
+  "id": "t6-c1-f6",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Topic overview",
+  "pageRef": 246,
+  "front": "Which paragraphs and schedules of the Code of Conduct contain the SFC's requirements for electronic trading and for ALPs?",
+  "back": "Electronic trading: Paragraph 18 and Schedule 7. Alternative liquidity pools (\"ALPs\"): Paragraph 19 and Schedule 8.",
+  "explanation": "These are the Code of Conduct provisions stipulating the SFC's regulatory requirements for the two regimes. Confusing the paragraph/schedule pairing between the two regimes is a common error. (PDF p.246)"
+ },
+ {
+  "id": "t6-c1-f7",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Compliance",
+  "pageRef": 252,
+  "front": "How must the compliance function be positioned within a licensed or registered firm under the ICG?",
+  "back": "It must be independent of all operational and business functions and report directly to senior management; compliance staff must have the necessary skills, qualifications and experience, and be given full access, as far as practicable, to all necessary records, documentation and all areas of the business.",
+  "explanation": "Independence and a direct reporting line to senior management are the key structural requirements. Full access to records and the business enables comprehensive compliance procedures. (PDF p.252)"
+ },
+ {
+  "id": "t6-c1-f8",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Compliance",
+  "pageRef": 253,
+  "front": "To whom must material non-compliance with legal and regulatory requirements by the intermediary or its staff be reported, and how quickly?",
+  "back": "Promptly to the appropriate regulators. In addition, compliance staff must promptly report material breaches of legal and regulatory requirements and of the firm's own policies and procedures to senior management.",
+  "explanation": "There are two reporting limbs: internal prompt reporting by compliance staff to senior management for material breaches, and external prompt reporting of material non-compliance with legal and regulatory requirements to the appropriate regulators. (PDF p.253)"
+ },
+ {
+  "id": "t6-c1-f9",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Operational controls",
+  "pageRef": 255,
+  "front": "What client information must be obtained and confirmed before opening an account?",
+  "back": "The true identity of every client, the beneficial owner of each client account, the persons authorised to give instructions for its operation, and information regarding the client's financial position, investment experience and objectives.",
+  "explanation": "This is the first operational controls guideline for senior management. The information regarding the client's financial position, investment experience and objectives is expressly to be obtained before opening the account. (PDF p.255)"
+ },
+ {
+  "id": "t6-c1-f10",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Operational controls",
+  "pageRef": 255,
+  "front": "What does a complete audit trail for client orders require under the ICG operational controls?",
+  "back": "Records and times of orders received from clients or generated internally, from origination through execution and settlement, using sequential numbering and time-stamping; client orders must also be handled fairly and allocated in a fair and timely manner.",
+  "explanation": "Sequential numbering and time-stamping across the full life of the order (origination, execution, settlement) are the precise mechanics specified. Fair handling and fair, timely allocation of client orders are stated alongside the audit trail requirement. (PDF p.255)"
+ },
+ {
+  "id": "t6-c2-f1",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "AMLO",
+  "pageRef": 261,
+  "front": "What is the maximum penalty for a breach of the AMLO, and how does it change where there is intent to defraud?",
+  "back": "Standard maximum: a fine of HK$1 million and imprisonment for two years. With intent to defraud a relevant authority (e.g. HKMA or SFC) or the firm: a fine of HK$1 million and a maximum of seven years' imprisonment.",
+  "explanation": "A breach of the AMLO is a criminal offence, and employees or managers who knowingly cause or permit the firm to breach a specified provision also commit a criminal offence. The intent-to-defraud variant raises only the imprisonment term to seven years; the fine stays at HK$1 million. A breach also attracts regulatory discipline. (PDF p.261)"
+ },
+ {
+  "id": "t6-c2-f2",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "WMD(CPS)O",
+  "pageRef": 263,
+  "front": "What is the maximum penalty under the WMD(CPS)O for an intermediary that continues providing services it has reasonable grounds to suspect are connected with WMD proliferation?",
+  "back": "A fine of an unlimited amount and/or imprisonment of up to seven years.",
+  "explanation": "The WMD(CPS)O prohibits providing any services that may be connected to the proliferation of weapons capable of causing mass destruction, including their development, production, acquisition or stockpiling, and \"services\" is widely defined to include financial assistance. The offence applies irrespective of where the weapons are developed. Note the contrast with the AMLO, where the fine is capped at HK$1 million. (PDF p.263)"
+ },
+ {
+  "id": "t6-c2-f3",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "AMLO",
+  "pageRef": 261,
+  "front": "Under the AMLO, who is the \"relevant authority\" for (a) licensed corporations and licensed VAS providers, and (b) authorised institutions?",
+  "back": "(a) The SFC; (b) the Hong Kong Monetary Authority (HKMA).",
+  "explanation": "The AMLO empowers certain bodies as a \"relevant authority\" with various powers, including investigation and prosecution, and the power to supervise and discipline financial institutions for non-compliance. Matching the right regulator to the right type of firm is a common exam point: SFC for licensed corporations and licensed VAS providers, HKMA for authorised institutions. (PDF p.261)"
+ },
+ {
+  "id": "t6-c2-f4",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Risk-based approach",
+  "pageRef": 265,
+  "front": "Who must approve the institutional risk assessment of a licensed corporation or licensed VAS provider, and how often must it be updated?",
+  "back": "It should be approved by senior management and updated at least every two years.",
+  "explanation": "The risk-based approach requires two documented risk assessments: an institutional risk assessment supporting the adoption of appropriate AML/CFT Systems in view of the nature, size and complexity of the business, and a customer risk assessment that varies with the assessed risk of each customer or business relationship. The two-year minimum update cycle applies to the institutional assessment. (PDF p.265)"
+ },
+ {
+  "id": "t6-c2-f5",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Risk-based approach",
+  "pageRef": 266,
+  "front": "What are the four main categories of risk factors normally taken holistically into account in ML/TF risk assessments?",
+  "back": "Country risk, customer risk, product/service/transaction risk, and delivery/distribution channel risk.",
+  "explanation": "There is no definitive set of risk factors that must be considered, as it depends on the circumstances of the firm and its customers, but these four categories are normally taken into account holistically. Appendix A to the GAML provides examples of what might indicate higher or lower risks. (PDF p.266)"
+ },
+ {
+  "id": "t6-c2-f6",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Regulation by the Securities and Futures Commission",
+  "pageRef": 264,
+  "front": "Name and define the three common stages of money laundering described in the GAML.",
+  "back": "1. Placement: disposal of cash proceeds from illegal activities into the financial system. 2. Layering: separating illicit proceeds from their source through layers of financial transactions to hide the source, subvert the audit trail and provide anonymity. 3. Integration: creating an impression of apparent legitimacy so the laundered proceeds re-enter the general financial system unconnected with their illegal source.",
+  "explanation": "Layering is the stage at which licensed corporations and licensed VAS providers are most likely to become involved, because the liquidity of the securities, futures and virtual asset markets makes complicated trails possible. Placement is harder in these markets because SFC-regulated activities are generally not cash-based. (PDF p.264)"
+ },
+ {
+  "id": "t6-c2-f7",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "DTRPO",
+  "pageRef": 262,
+  "front": "Which bodies set up and operate the Joint Financial Intelligence Unit (JFIU)?",
+  "back": "The Hong Kong Police Force and the Customs and Excise Department.",
+  "explanation": "Under the DTRPO, a person who knows or suspects property relates to drug trafficking should report as soon as reasonable to an authorised officer, who may be a police officer, a customs and excise officer or the JFIU; a report may also be made to a person designated by the employer. The JFIU is also the MLRO's main point of contact along with law enforcement agencies. (PDF p.262)"
+ },
+ {
+  "id": "t6-c2-f8",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "AMLO",
+  "pageRef": 261,
+  "front": "Where in the AMLO are the customer due diligence (CDD) and record-keeping requirements set out?",
+  "back": "In Schedule 2 to the AMLO.",
+  "explanation": "The AMLO is primarily concerned with imposing CDD requirements, imposing record-keeping requirements, giving relevant authorities powers to investigate, supervise and discipline financial institutions, and establishing a disciplinary review tribunal. The detailed CDD and record-keeping rules sit in Schedule 2. (PDF p.261)"
+ },
+ {
+  "id": "t6-c2-f9",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Risk management",
+  "pageRef": 257,
+  "front": "Under the ICG risk management control guidelines, when must trading and position limits for proprietary trading be monitored, and what review applies to the limits?",
+  "back": "They must be monitored at the end of the trading day, and the limits must be reviewed on a timely basis for effectiveness.",
+  "explanation": "The control guidelines also call for a risk management function of suitably qualified and experienced professionals, procedures limiting exposure to loss from client default or changing market conditions, comprehensive risk-focused reviews at suitable intervals and whenever there are significant changes in business, operations or key personnel, regular reporting of exposures to senior management, and a senior-management-defined risk policy. (PDF p.257)"
+ },
+ {
+  "id": "t6-c2-f10",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Regulation by the Securities and Futures Commission",
+  "pageRef": 263,
+  "front": "How does the SFC's MIC regime address AML/CFT responsibility?",
+  "back": "AML/CFT is one of the eight core functions of senior management, and at least one person must be appointed as the Manager-In-Charge (MIC) responsible for that function.",
+  "explanation": "The SFC expects licensed corporations and licensed VAS providers to implement AML/CFT measures that are effective in detecting and preventing ML/TF, and the MIC regime reflects this expectation at senior management level. Remember the number eight and the minimum of one appointed MIC for the function. (PDF p.263)"
+ },
+ {
+  "id": "t6-c3-f1",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Record keeping",
+  "pageRef": 268,
+  "front": "How long must CDD documentation relating to customers be kept under the GAML?",
+  "back": "Throughout the continuance of the business relationship and for at least five years after the end of the relationship.",
+  "explanation": "The GAML record-keeping requirements support law enforcement investigations of ML/TF matters. The five-year clock for customer documents starts when the business relationship ends, which is different from transaction records, whose five years run from completion of the transaction. (PDF p.268)"
+ },
+ {
+  "id": "t6-c3-f2",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Record keeping",
+  "pageRef": 268,
+  "front": "How long must records relating to transactions be kept under the GAML?",
+  "back": "At least five years following completion of the transaction, irrespective of whether there is any continuing business relationship.",
+  "explanation": "Transaction records must be sufficient to reconstruct individual transactions to provide evidence for prosecution of criminal activity if necessary. The retention period is independent of whether the customer relationship continues. (PDF p.268)"
+ },
+ {
+  "id": "t6-c3-f3",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Procedures for disclosure as suggested by the JFIU",
+  "pageRef": 271,
+  "front": "To which body should disclosures of suspicious transactions under the DTRPO, OSCO or UNATMO be made, and on whom does the reporting obligation rest?",
+  "back": "Disclosures should be made to the JFIU; the obligation rests with the individual who becomes suspicious of a person, transaction or property.",
+  "explanation": "If suspicion remains after internal review, the report should be made without delay, by telephone if necessary. The firm, its directors and staff must not inform or warn the client when information is disclosed to the JFIU. (PDF p.271)"
+ },
+ {
+  "id": "t6-c3-f4",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Cross-border correspondent relationships",
+  "pageRef": 271,
+  "front": "With what type of financial institution is a cross-border correspondent relationship prohibited?",
+  "back": "A financial institution that has no physical presence in the place where it is authorised and is not a member of a regulated financial group subject to effective group-wide supervision.",
+  "explanation": "This prohibition addresses the heightened ML/TF risk of dealing with institutions that lack real presence and group-wide oversight. By contrast, a relationship with a related foreign financial institution may even qualify for a streamlined due diligence approach relying on the group AML/CFT programme. (PDF p.271)"
+ },
+ {
+  "id": "t6-c3-f5",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Electronic trading and alternative liquidity pools (\"ALP\")",
+  "pageRef": 274,
+  "front": "Which part of the Code of Conduct sets out the specific conduct requirements for electronic trading (internet trading, DMA and algorithmic trading)?",
+  "back": "Paragraph 18 and Schedule 7 of the Code of Conduct.",
+  "explanation": "These provisions respond to the particular risks posed by internet trading, direct market access and algorithmic trading, and must be read together with the other conduct requirements of the Code of Conduct. ALPs are governed separately by Paragraph 19 and Schedule 8. (PDF p.274)"
+ },
+ {
+  "id": "t6-c3-f6",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Record keeping (electronic trading)",
+  "pageRef": 275,
+  "front": "For how long must documentation of an electronic trading system's risk management controls, and audit logs/incident reports for material system delays or failures, be kept?",
+  "back": "Risk management control documentation: not less than two years after the system ceased to be used. Audit logs and incident reports for material delays or failures: not less than two years.",
+  "explanation": "Records of the design and development of the system (including testing, reviews, modifications, upgrades and rectifications) must also be kept. Note the two-year period here contrasts with the five-year AML retention periods for customer and transaction records. (PDF p.275)"
+ },
+ {
+  "id": "t6-c3-f7",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Algorithmic trading",
+  "pageRef": 278,
+  "front": "How often must an algorithmic trading system and its trading algorithms be reviewed and tested?",
+  "back": "Regularly, and no less than annually.",
+  "explanation": "The review covers the system's ability to handle sizable trading volume and the algorithms' ability to execute orders without interfering with the operation of a fair and orderly market. Adequate testing is also required before deployment of any new development or modification, and due diligence should be performed on third-party-provided systems or algorithms. (PDF p.278)"
+ },
+ {
+  "id": "t6-c3-f8",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Guidelines for Reducing and Mitigating Hacking Risks Associated with Internet Trading",
+  "pageRef": 278,
+  "front": "What authentication method must a licensed or registered person implement for clients to log in to internet trading accounts?",
+  "back": "Two-factor authentication.",
+  "explanation": "The firm must also notify clients promptly (e.g. via email, SMS or push notification) after specified activities such as system login, password reset and trade execution, and implement an effective monitoring and surveillance mechanism with a strong encryption algorithm. (PDF p.278)"
+ },
+ {
+  "id": "t6-c3-f9",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Infrastructure security management",
+  "pageRef": 279,
+  "front": "How frequently, and in what medium, should records and databases supporting internet trading be backed up?",
+  "back": "At least daily, in an off-line medium; the firm must also ensure successful roll-back of major system changes.",
+  "explanation": "This is one of the network infrastructure requirements under the SFC's hacking-risk guidelines, alongside a Demilitarised Zone with multi-tiered firewalls, need-to-have access, timely security patches, physical security for critical components, and effective contingency procedures. Cybersecurity awareness training must separately be provided to relevant staff at least yearly. (PDF p.279)"
+ },
+ {
+  "id": "t6-c3-f10",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Conduct requirements of ALPs in Code of Conduct",
+  "pageRef": 279,
+  "front": "Which part of the Code of Conduct applies to a licensed or registered person who operates an ALP or routes client orders to an ALP, and what is the defining feature of an ALP?",
+  "back": "Paragraph 19 and Schedule 8 of the Code of Conduct; an ALP crosses/matches orders in exchange-listed or traded securities with no pre-trade transparency.",
+  "explanation": "An ALP is an electronic system, in-house or third-party developed, operated by a licensed or registered person. ALPs are allowed to transact both Hong Kong listed and overseas listed securities, and the ALP operator must effectively manage and adequately supervise the design, development, deployment and operation of the ALP. (PDF p.279)"
+ },
+ {
+  "id": "t6-c4-f1",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Insurance cover",
+  "pageRef": 288,
+  "front": "What insured amount does Schedule 2 of the Insurance Rules specify for dealing in securities, dealing in futures contracts or securities margin financing?",
+  "back": "HK$15 million each, with a deductible amount not exceeding HK$3 million in each case. There is no specified amount for other regulated activities.",
+  "explanation": "Schedule 2, Insurance Rules sets the cover per regulated activity; the HK$15 million insured amount and HK$3 million maximum deductible apply to each of the three named activities, and these exact figures are frequently tested. (PDF p.288)"
+ },
+ {
+  "id": "t6-c4-f2",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Insurance cover",
+  "pageRef": 288,
+  "front": "Under which SFO section is maintaining insurance cover (or depositing security with the SFC) a necessary condition for the granting of a licence, and under which section were the Insurance Rules made?",
+  "back": "Insurance cover or deposit of security is a licensing condition under s. 118, SFO; the SFC made the Securities and Futures (Insurance) Rules under s. 116(5), SFO.",
+  "explanation": "Two distinct SFO provisions are involved: s. 118 imposes the condition for granting a licence, while s. 116(5) is the rule-making power for the Insurance Rules. Confusing the two section numbers is a common error. (PDF p.288)"
+ },
+ {
+  "id": "t6-c4-f3",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Insurance cover",
+  "pageRef": 288,
+  "front": "Which licensed corporations are NOT subject to the Insurance Rules?",
+  "back": "Those with a licensing condition that they may not hold client assets AND that are not exchange participants of either the SEHK or the Hong Kong Futures Exchange Limited.",
+  "explanation": "Both limbs must be met for the exemption: a no-client-asset licensing condition and non-participation in both exchanges. The risks covered by the required insurance are losses of client assets, including those held by an associated entity, attributable to, for example, fraud or theft. (PDF p.288)"
+ },
+ {
+  "id": "t6-c4-f4",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Data protection principles",
+  "pageRef": 283,
+  "front": "How many data protection principles must data users comply with under the PDPO, and where are they set out?",
+  "back": "Six data protection principles, set out in Schedule 1 to the PDPO.",
+  "explanation": "The six principles cover: (1) purpose and manner of collection, (2) accuracy and duration of retention, (3) use, (4) security, (5) information to be generally available, and (6) access to personal data. (PDF p.283)"
+ },
+ {
+  "id": "t6-c4-f5",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Personal Data (Privacy) Ordinance",
+  "pageRef": 283,
+  "front": "Who enforces and promotes compliance with the PDPO?",
+  "back": "The Privacy Commissioner for Personal Data, an independent public officer appointed to enforce and promote compliance with the PDPO.",
+  "explanation": "If a data user refuses a data subject's request to correct incorrect data, the data subject can report the matter to the Privacy Commissioner for Personal Data — not to the SFC. (PDF p.283)"
+ },
+ {
+  "id": "t6-c4-f6",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Access to and operation of ALPs",
+  "pageRef": 280,
+  "front": "Who counts as a \"qualified investor\" permitted to use an ALP?",
+  "back": "A professional investor who is (i) an Institutional Professional Investor, or (ii) a Corporate Professional Investor — except corporations acting solely as investment holding companies wholly owned by an Individual Professional Investor.",
+  "explanation": "Only orders placed or originated by qualified investors may be routed to the ALP. Individual Professional Investors are not qualified investors, and the carve-out also excludes their wholly owned investment holding companies. (PDF p.280)"
+ },
+ {
+  "id": "t6-c4-f7",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Access to and operation of ALPs",
+  "pageRef": 280,
+  "front": "In an ALP, which orders have priority when a non-proprietary order and a proprietary order are being transacted at the same price?",
+  "back": "Non-proprietary orders have priority over proprietary orders at the same price, irrespective of the time when the orders were placed.",
+  "explanation": "A proprietary order is one for the account of the ALP operator or a group company trading as principal, any account in which they have an interest, or the account of their employees or agents. Time priority does not override this client-first rule. (PDF p.280)"
+ },
+ {
+  "id": "t6-c4-f8",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Knowledge check",
+  "pageRef": 290,
+  "front": "What products are allowed to be crossed/matched in an ALP?",
+  "back": "Hong Kong listed securities and overseas listed securities.",
+  "explanation": "This is the knowledge check answer on permitted ALP products: both Hong Kong listed and overseas listed securities qualify, but futures contracts and unlisted securities are not mentioned. (PDF p.290)"
+ },
+ {
+  "id": "t6-c4-f9",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Common Reporting Standard",
+  "pageRef": 288,
+  "front": "Who developed the CRS and when, and which Hong Kong ordinance implements it?",
+  "back": "The OECD developed the CRS in 2014; in Hong Kong it is implemented by the Inland Revenue (Amendment) (No.3) Ordinance 2016, which requires annual reporting to the Inland Revenue Department.",
+  "explanation": "Licensed corporations and registered institutions must perform due diligence to identify financial accounts held by tax residents of reportable jurisdictions — those with which Hong Kong has an automatic exchange of financial account information (AEOI) agreement — and report annually to the Inland Revenue Department. (PDF p.288)"
+ },
+ {
+  "id": "t6-c4-f10",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Corporate governance",
+  "pageRef": 286,
+  "front": "What are the OECD's core principles of corporate governance practices?",
+  "back": "Fairness, transparency, accountability and responsibility.",
+  "explanation": "The OECD issued this set of core principles; governance itself is the systems and processes by which companies are directed and controlled to fulfil business objectives, covering the relationships between management, board, shareholders and stakeholders. (PDF p.286)"
+ },
+ {
+  "id": "t6-c5-f1",
+  "type": "flashcard",
+  "topic": 6,
+  "section": "Dealing in futures contracts",
+  "pageRef": 292,
+  "front": "In Topic 7 (\"Participating in the Hong Kong exchanges\"), which exchange is named in section 5 on dealing in futures contracts, and what other sub-headings does that section cover?",
+  "back": "Hong Kong Futures Exchange Limited. Section 5 covers: Hong Kong Futures Exchange Limited; Trading; Clearing participants; Participant requirements; Ongoing requirements; Clearing and margin; and Settlement.",
+  "explanation": "The Topic 7 table of contents lists \"Hong Kong Futures Exchange Limited\" as the first sub-heading of section 5, \"Dealing in futures contracts\", followed by trading, clearing participants, participant requirements, ongoing requirements, clearing and margin (p.292) and settlement (p.293). Do not confuse this with section 4, which deals with traded options on the SEHK. (PDF p.292)"
+ },
+ {
+  "id": "t7-c1-f1",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Participants",
+  "pageRef": 299,
+  "front": "What is the current fee for a trading right on the SEHK, and can trading rights be transferred?",
+  "back": "Trading rights are only available from the SEHK for a fee currently set at HK$500,000, and they are non-transferable.",
+  "explanation": "Anyone wishing to trade through the SEHK or the HKFE must hold trading rights and register as an exchange participant of the respective exchange. Those wishing to clear trades must also become clearing participants of the relevant clearing houses (HKSCC, SEOCH and/or HKCC). (PDF p.299)"
+ },
+ {
+  "id": "t7-c1-f2",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Clearing and settlement systems",
+  "pageRef": 298,
+  "front": "Name the four clearing houses in Hong Kong and state what each clears.",
+  "back": "HKSCC (wholly owned by HKEX) — cash business and securities settlement of the SEHK; SEOCH (wholly owned) — options business of the SEHK; HKCC (wholly owned) — futures and options business of the HKFE; OTC Clear (majority-owned) — OTC derivatives transactions.",
+  "explanation": "The HKSCC operates CCASS for SEHK securities transactions, while DCASS is the common derivatives platform operated by the HKCC for HKFE futures and options and by the SEOCH for Traded Options. OTC Clear started operation in 2013 and is designated by the SFC as a central counterparty for certain OTC derivative transactions subject to the mandatory clearing obligation. (PDF p.298)"
+ },
+ {
+  "id": "t7-c1-f3",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Investors",
+  "pageRef": 301,
+  "front": "Which Mainland investors may participate in Southbound trading under the Stock Connects?",
+  "back": "Only (a) institutional investors and (b) individual investors who satisfy the eligibility criteria — presently holding at least RMB500,000 in their securities and cash accounts.",
+  "explanation": "All other Mainland investors are excluded from Southbound trading, and Mainland investors are prohibited from buying or selling eligible securities via Northbound trading under the Stock Connects. Mainland investors include individuals with Mainland ID documents, joint accounts with such a holder, and entities registered in the Mainland. (PDF p.301)"
+ },
+ {
+  "id": "t7-c1-f4",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Northbound trading via the Shanghai Connect",
+  "pageRef": 302,
+  "front": "What are the eligibility criteria for a constituent stock of the SSE A Share Index to qualify for Northbound trading?",
+  "back": "(i) Daily average market capitalisation of at least RMB 5 billion in the last six months; (ii) daily average turnover of at least RMB 30 million in the last six months; (iii) not suspended from trading on any SSE Market on 50% or more of the trading days in the last six months; (iv) if it has differentiated voting rights, additional criteria apply.",
+  "explanation": "Alternatively, an SSE-listed A share traded in RMB is eligible if it has corresponding H shares listed on the SEHK. An eligible A share that later fails the criteria or is placed under risk alert may be designated sell-only, meaning it cannot be bought. (PDF p.302)"
+ },
+ {
+  "id": "t7-c1-f5",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Trade quota",
+  "pageRef": 304,
+  "front": "What are the daily trading quotas under the Stock Connects, and how is the quota calculated?",
+  "back": "Northbound daily quota: RMB52 billion for each of the Shanghai Connect and the Shenzhen Connect. Southbound daily quota: RMB42 billion for each. Calculated on a 'net buy' basis — sell trades increase available quota, and sells are always allowed regardless of the quota balance.",
+  "explanation": "Buy trades are subject to there being available daily quota, while investors may always sell their cross-border securities. Trading of A shares and ETFs shares the same daily quota. (PDF p.304)"
+ },
+ {
+  "id": "t7-c1-f6",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Southbound trading",
+  "pageRef": 304,
+  "front": "What are the key eligibility criteria for an SEHK-listed ETF to be tradable Southbound under the Stock Connects?",
+  "back": "It must (a) be primarily regulated by the SFC; (b) have been listed for at least six months, with its benchmark index launched for at least one year; (c) be traded in HKD with daily average AUM in the last six months of no less than HKD 550 million; and (d) have a benchmark index meeting requirements on the total weighting of eligible SEHK-listed stocks and the benchmark methodology.",
+  "explanation": "Compare the Northbound side: an SSE-listed ETF must be traded in RMB with daily average AUM in the last six months of no less than RMB 500 million, with the same six-month listing and one-year benchmark requirements. An ETF that later fails the criteria may be designated sell-only. (PDF p.304)"
+ },
+ {
+  "id": "t7-c1-f7",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Trading, clearing and settlement",
+  "pageRef": 305,
+  "front": "What are the settlement timetables for Southbound and Northbound executed trades under the Stock Connects?",
+  "back": "Southbound trades settle on the usual T+2 basis, as for other SEHK trades. Northbound trades settle on the trade day for securities settlement, and on the trade day or a T+1 basis for money settlement.",
+  "explanation": "For Northbound orders the HKSCC, acting through its Mainland incorporated subsidiary, is a participant of ChinaClear and undertakes the settlement obligations of the CCCPs. For Southbound orders, ChinaClear's Hong Kong subsidiary acts as a Special Participant of the HKSCC, but the HKSCC remains the central clearing party as for all SEHK trades. (PDF p.305)"
+ },
+ {
+  "id": "t7-c2-f1",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Investor identification regime for Northbound trading",
+  "pageRef": 306,
+  "front": "By when must a CCEP send the BCAN-to-client identification mapping information file to SEHK in order to input a Northbound order on T day?",
+  "back": "On or before T-1 day, and the file must have passed the validation of SEHK. The CCEP must also provide the corresponding BCAN in every Northbound order inputted.",
+  "explanation": "Each Northbound client is assigned a unique BCAN in the SEHK standard format, which must not be changed or re-used for other clients, mapped to the client's name and the issuing country, type and number of the identity document. Without a validated mapping file delivered by T-1, Northbound orders cannot be input on T day. (PDF p.306)"
+ },
+ {
+  "id": "t7-c2-f2",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Additional restrictions on Northbound trading",
+  "pageRef": 308,
+  "front": "At what thresholds does the SSE/SZSE suspend and resume margin trading in an ETF under the Northbound trading links?",
+  "back": "Suspend after both the balance of margin trading and the market value of the collaterals in the margin account reach 75% of the ETF's listed and tradable market capitalisation; resume when any one of the percentages drops below 70%.",
+  "explanation": "These ETF thresholds (75%/70%) contrast with the thresholds for shares, where margin trading is suspended when the margin trading indicator reaches 25% and resumes when it drops below 20%. Margin trading is permitted only for CCEPs and exchange participants registered with SEHK to conduct Northbound trading through CCEPs for the account of their clients. (PDF p.308)"
+ },
+ {
+  "id": "t7-c2-f3",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Additional restrictions on Northbound trading",
+  "pageRef": 308,
+  "front": "What are the maximum permitted periods for SBL agreements under the Northbound trading links?",
+  "back": "For covered short selling: not longer than one calendar month. For meeting pre-trade checking requirements: not longer than one day, and roll-over is not allowed.",
+  "explanation": "SBL is permitted only for these two purposes, only certain types of persons as determined by SSE or SZSE may act as stock lenders, and all SBL activities must be reported to the SEHK. Securities not eligible for both buy and sell orders may not be subject to SBL for the purpose of covered short selling. (PDF p.308)"
+ },
+ {
+  "id": "t7-c2-f4",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Additional restrictions on Northbound trading",
+  "pageRef": 308,
+  "front": "What foreign ownership limits does the Chinese Mainland impose on listed companies?",
+  "back": "A single foreign investor cannot own more than 10% of a listed company's issued shares, and total foreign investors' ownership cannot exceed 30% of total issued shares. ETFs listed on the SSE or SZSE are not subject to shareholding restrictions.",
+  "explanation": "The HKEX publishes a notification on its website when the SSE/SZSE inform it that these limits are being approached, and foreign investors will be requested to sell shares if the 30% threshold is exceeded. A separate Mainland disclosure rule applies at the 5% holding level and may impact a person's ability to trade during specified periods. (PDF p.308)"
+ },
+ {
+  "id": "t7-c2-f5",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Short selling via the Northbound trading links",
+  "pageRef": 309,
+  "front": "What quantity limits apply to short selling a security via the Northbound trading links?",
+  "back": "Not more than 1% of the shares of that short selling security held by all investors through the CCASS as at the commencement of that trading day, and not more than 5% cumulatively in any period of ten consecutive trading days.",
+  "explanation": "In addition, a short selling order must not be input at a price lower than the most recent execution price, or the previous closing price if there have been no executed trades. The HKEX publishes each trading day the number of securities available for short selling, updated every 15 minutes during the trading day. (PDF p.309)"
+ },
+ {
+  "id": "t7-c2-f6",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "SFC Transaction Levy and AFRC Transaction Levy",
+  "pageRef": 314,
+  "front": "What levies does the SEHK charge on each purchase and sale of securities, and at what rates?",
+  "back": "SFC Transaction Levy of 0.0027% and AFRC Transaction Levy of 0.00015% (each rounded to the nearest cent), calculated as a percentage of each transaction and paid by both the buyer and the seller.",
+  "explanation": "The Investor Compensation Levy of 0.002%, formerly charged by the SFC for the Investor Compensation Fund, has been suspended from 19 December 2005 onward. No levy is charged on Securities Market Maker transactions. (PDF p.314)"
+ },
+ {
+  "id": "t7-c2-f7",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Transfer deed stamp duty",
+  "pageRef": 315,
+  "front": "What are the amounts of the transfer deed stamp duty and the transfer fee, and who pays each?",
+  "back": "Transfer deed stamp duty: HK$5 per new transfer deed, levied by the Government and payable by the registered holder of the share certificate(s), i.e. the seller. Transfer fee: HK$2.5 per share certificate for each new certificate issued, levied by the listed company's registrar on the registered holder, i.e. the buyer.",
+  "explanation": "Both charges apply irrespective of the quantity of shares traded. By contrast, stamp duty on the transaction itself is 0.1% of the value (rounded up to the nearest dollar) payable by both buyer and seller, and the Trading Fee payable to the SEHK is 0.00565% per side. (PDF p.315)"
+ },
+ {
+  "id": "t7-c3-f1",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Securities borrowing and lending",
+  "pageRef": 318,
+  "front": "What minimum collateral must an Exchange Participant engaged in SBL collect, and how often must borrowings be marked to market?",
+  "back": "Collateral of at least 100% of the value of the securities loaned, or 105% if the borrowing is for short selling; all securities borrowings must be marked to market at least daily against the previous day's closing price.",
+  "explanation": "These are the two ongoing SBL obligations of an Exchange Participant under the Rules of the Exchange. Note the 5-percentage-point uplift when the borrowing supports short selling, and that the daily mark-to-market uses the previous day's closing price. (PDF p.318)"
+ },
+ {
+  "id": "t7-c3-f2",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Short position reporting",
+  "pageRef": 319,
+  "front": "What is the reportable short position threshold under the Short Position Reporting Rules, and what are the reporting deadlines?",
+  "back": "For specified shares (other than CIS interests): a net short position value equal to or more than the LOWER of HK$30 million and 0.02% of the value of the total specified shares issued. For CIS interests: HK$30 million or more. Report to the SFC within 2 business days after the reporting day (normally the last trading day of each week); within 1 business day if the SFC has published a daily reporting requirement notice.",
+  "explanation": "The dual threshold (lower of HK$30m / 0.02%) applies only to corporate shares; CIS interests use the flat HK$30m figure. The SFC may switch from weekly to daily reporting when circumstances threaten the financial stability of Hong Kong, cutting the deadline from two business days to one. (PDF p.319)"
+ },
+ {
+  "id": "t7-c3-f3",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Securities settlement",
+  "pageRef": 321,
+  "front": "On what day are SEHK trades settled in CCASS, and what happens if a CCASS Clearing Participant has insufficient stock to settle?",
+  "back": "Almost all SEHK trades are settled on T+2 by electronic debit and credit entries to stock accounts. If the participant lacks sufficient stock by the end of T+2, the HKSCC executes a compulsory buy-in on T+3; the short participant bears the cost of the shares purchased and is subject to a default fee.",
+  "explanation": "Remember the sequence: settlement on T+2, compulsory buy-in on T+3. The defaulting participant pays both the cost of the bought-in shares and a default fee. (PDF p.321)"
+ },
+ {
+  "id": "t7-c3-f4",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Daily mark-to-market margin",
+  "pageRef": 326,
+  "front": "By what time must money settlement of the SEOCH's daily mark-to-market margin be confirmed, and through what system is it collected?",
+  "back": "Money settlement conducted by settlement banks should be confirmed before 9:15am, so all open positions are fully margined before the markets open. Collections from SEOCH Clearing Participants are processed by the Direct Margin Debiting System, through which the SEOCH instructs its settlement banks to direct debit the participant's bank account.",
+  "explanation": "Each day after the close of trading, the SEOCH marks marginable positions to market using the fixing price of each option series it determines; the resulting amount is the mark-to-market margin. The 9:15am confirmation deadline ensures full margining before market open. (PDF p.326)"
+ },
+ {
+  "id": "t7-c3-f5",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Intra-day margin call",
+  "pageRef": 327,
+  "front": "Within what time must a SEOCH intra-day margin call be met, and what level of margin erosion automatically triggers it?",
+  "back": "All intra-day margin calls must be met by SEOCH Clearing Participants within one hour after notification. Generally, a margin erosion of 50% in the margin interval of any one of the option classes automatically triggers the intra-day margin call.",
+  "explanation": "Intra-day calls are made during periods of high market volatility on real-time open positions using prevailing market prices. They let the SEOCH restore margins immediately for contracts whose prices have changed significantly, instead of waiting for next-day settlement. (PDF p.327)"
+ },
+ {
+  "id": "t7-c3-f6",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Discipline",
+  "pageRef": 323,
+  "front": "In disciplining Exchange Participants, what matters fall to the SFC and what matters fall to the SEHK?",
+  "back": "The SFC, as front-line regulator of intermediaries, is responsible for all disciplinary matters relating to breaches of the SFO, the statutory rules, regulations and codes of conduct. The SEHK handles disciplinary matters other than those within the SFC's purview, specifically trading, clearing and settlement offences and breaches of the Listing Rules.",
+  "explanation": "Under Chapter 7, Rules of the Exchange, an Exchange Participant is responsible for the acts of its responsible officers, directors, partners, authorised persons, representatives, officers and employees. SEHK disciplinary actions include warning letters, fines and suspension of exchange participantship. (PDF p.323)"
+ },
+ {
+  "id": "t7-c4-f1",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Trading position limits and reporting requirements",
+  "pageRef": 333,
+  "front": "What are the prescribed position limits for SEHK stock futures, Hang Seng Index futures, HSCEI futures and SEHK stock/ETF options under the Contracts Limits Rules?",
+  "back": "SEHK stock futures: 25,000 contracts (all contract months combined). Hang Seng Index futures: 15,000 net long or short positions (all contract periods combined). Hang Seng China Enterprises Index futures: 25,000 net long or short positions (all contract periods combined). SEHK stock and ETF options: 250,000 contracts per option class in any one market direction for all expiries combined.",
+  "explanation": "These are the four example limits the syllabus specifies under the Securities and Futures (Contracts Limits and Reportable Positions) Rules; holding or controlling positions in excess of them without authorisation by the SFC or the exchanges is prohibited, and violation is an offence subject to potential fine and imprisonment. (PDF p.333)"
+ },
+ {
+  "id": "t7-c4-f2",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Trading position limits and reporting requirements",
+  "pageRef": 333,
+  "front": "Within what time must a reportable position be notified under the Contracts Limits Rules, and to whom?",
+  "back": "It must be notified in writing and lodged with the exchange company concerned (the HKFE or the SEHK as appropriate) within one business day following the day on which first holding/control occurs, and on each succeeding day in which the position continues.",
+  "explanation": "Reporting is a separate obligation from the position limits themselves, and breaching either the holding or the reporting provisions is an offence subject to potential fine and imprisonment. The reporting levels include 1,000 contracts (any one contract month) for SEHK stock futures and 1,000 contracts per option class per expiry for SEHK stock and ETF options. (PDF p.333)"
+ },
+ {
+  "id": "t7-c4-f3",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Clearing and margin",
+  "pageRef": 331,
+  "front": "When must an HKFE Participant issue a margin call for a new position established by an established client without prior collateral?",
+  "back": "T Session position: the call for the minimum margin must be issued within that business day. T+1 Session position: the call must be issued within the next business day. The client must be advised the margin is due as soon as practicable, and in no event later than the next business day of the relevant session; no new positions are allowed while margin calls are overdue.",
+  "explanation": "These concessions apply only to established clients (those with a record of consistently meeting margin obligations, a sound financial position, and a representation that funds will be immediately transmitted). They do not apply to day trades for established clients with a history of transacting day trades exclusively, who must provide adequate collateral first. (PDF p.331)"
+ },
+ {
+  "id": "t7-c4-f4",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Knowledge check",
+  "pageRef": 337,
+  "front": "What is the Northbound daily trading link quota for the Shanghai Connect and the Shenzhen Connect?",
+  "back": "RMB52 billion for each of the Shanghai Connect and the Shenzhen Connect.",
+  "explanation": "This is a hard monetary threshold tested in the knowledge check: each Connect link has its own Northbound daily quota of RMB52 billion. (PDF p.337)"
+ },
+ {
+  "id": "t7-c4-f5",
+  "type": "flashcard",
+  "topic": 7,
+  "section": "Knowledge check",
+  "pageRef": 337,
+  "front": "Which Chinese Mainland investors may participate in Southbound trading under the Connect links?",
+  "back": "Only institutional investors, and individual investors who hold RMB500,000 or more in their securities and cash accounts.",
+  "explanation": "Not all Mainland persons can trade Southbound: the monetary eligibility threshold for individual investors is RMB500,000 held in securities and cash accounts, while institutional investors qualify without that test. (PDF p.337)"
+ },
+ {
+  "id": "t8-c1-f1",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Persons involved in listings - Controlling shareholders",
+  "pageRef": 346,
+  "front": "Under the Listing Rules, what voting threshold makes a person (or group acting together) a controlling shareholder of an issuer?",
+  "back": "30% or more of the voting shares (excluding votes attaching to treasury shares), or being in a position to control the composition of a majority of the board of directors.",
+  "explanation": "The definition has two limbs: the 30% voting threshold (treasury share votes excluded) or board control. Identifying controlling shareholders matters for ownership continuity, INED independence, suitability for listing and continuing connected transactions; a sponsor must do due diligence beyond merely examining the shareholder register. (PDF p.346)"
+ },
+ {
+  "id": "t8-c1-f2",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Persons involved in listings - Directors",
+  "pageRef": 344,
+  "front": "What are the minimum INED requirements for the board of a listed issuer, and what shareholding levels affect a proposed INED's independence?",
+  "back": "At least 3 INEDs (at least one with appropriate professional qualifications or accounting/financial management expertise); INEDs must be at least one-third of the board. Holding more than 1% of issued shares (excluding treasury shares) is an independence factor; 5% or more means the person will normally not be considered independent.",
+  "explanation": "MBLR 3.10 and GLR 5.05 set the three-INED minimum and qualification requirement; MBLR 3.10A and GLR 5.05A set the one-third proportion. The 1% and 5% shareholding thresholds are factors under MBLR 3.13, and the same factors also apply to the director's immediate family members. (PDF p.344)"
+ },
+ {
+  "id": "t8-c1-f3",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Persons involved in listings - Compliance advisers",
+  "pageRef": 349,
+  "front": "What is the minimum period for which a listed issuer must retain a compliance adviser after initial listing, and what is the minimum SFC licence a sponsor must hold?",
+  "back": "Compliance adviser: at least until publication of the issuer's financial results for the first full financial year after listing (MBLR 3A.19; GLR 6A.19). Sponsor: at minimum a Type 6 licence (advising on corporate finance), plus additional SFC eligibility requirements.",
+  "explanation": "The compliance adviser must be appointed at the start of the initial listing and the SEHK may direct an issuer to appoint one even after the minimum period (MBLR 3A.20; GLR 6A.20). The sponsor's Type 6 minimum is stated at section 1.16, with extra eligibility requirements for corporate finance advisers acting as sponsors. (PDF p.349)"
+ },
+ {
+  "id": "t8-c2-f1",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Specialist technology companies",
+  "pageRef": 354,
+  "front": "What are the revenue threshold and initial market capitalisation requirements for specialist technology companies (STCs) listing as a Commercial Company versus a Pre-Commercial Company?",
+  "back": "A Commercial Company has revenue of at least HK$250 million for its most recent audited financial year and needs an initial market capitalisation of HK$4 billion; a Pre-Commercial Company (revenue below HK$250 million) needs an initial market capitalisation of HK$8 billion.",
+  "explanation": "The HK$250 million revenue threshold is what separates the two categories of STC, and the lower-revenue Pre-Commercial Companies must compensate with double the initial market capitalisation (HK$8 billion versus HK$4 billion). Pre-Commercial Companies also face additional disclosure requirements and restrictions on fundamental changes to their principal business. (PDF p.354)"
+ },
+ {
+  "id": "t8-c2-f2",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "The SEHK's power to cancel a listing",
+  "pageRef": 359,
+  "front": "After how long a continuous trading suspension may the SEHK cancel an issuer's listing, and under which rule?",
+  "back": "The SEHK may cancel a listing where the issuer has been suspended from trading for a continuous period of 18 months (MBLR 6.01A(1)).",
+  "explanation": "The 18-month continuous suspension is one of three additional cancellation grounds, alongside insufficient securities in public hands (MBLR 13.32B) and the issuer or its business no longer being suitable for listing. It is separate from cancellation for insufficient operations or assets under MBLR 13.24. (PDF p.359)"
+ },
+ {
+  "id": "t8-c2-f3",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Derivative warrants",
+  "pageRef": 363,
+  "front": "What net asset value must an issuer of non-collateralised derivative warrants have under MBLR Chapter 15A if it is not regulated by the HKMA or SFC and is not a government or state?",
+  "back": "A net asset value (NAV) of not less than HK$2 billion, together with the required credit rating.",
+  "explanation": "Under MBLR Chapter 15A, an issuer of non-collateralised derivative warrants (warrants with no securities to support them) must have an NAV of at least HK$2 billion and the required credit rating, unless it is regulated by the HKMA or the SFC or is a government or state. The issuer must also be incorporated and must not be a private company, and any guarantor must meet the same requirements. (PDF p.363)"
+ },
+ {
+  "id": "t8-c3-f1",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Mandatory offers",
+  "pageRef": 367,
+  "front": "At what level of voting rights does the \"trigger\" for a mandatory general offer arise under Rule 26 of the Takeovers Code?",
+  "back": "When any person, or persons acting in concert, acquire voting rights which increase their holding to 30% or more of the voting rights of the company.",
+  "explanation": "The Takeovers Code focuses on control of voting rights: it is enough that a person controls the voting rights, without owning the shares or being the registered shareholder. The Executive may grant a dispensation in certain circumstances, but this should not be assumed. (PDF p.367)"
+ },
+ {
+  "id": "t8-c3-f2",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Mandatory offers",
+  "pageRef": 368,
+  "front": "State the \"creeper\" rule that requires a mandatory offer under the Takeovers Code.",
+  "back": "A person (or concert parties) holding not less than 30% but not more than 50% of the voting rights must make a mandatory offer if they increase their holding by more than 2% from their lowest percentage holding in the 12-month period ending on (and including) the date of the acquisition.",
+  "explanation": "The creeper sits alongside the trigger (reaching 30% or more) as the two categories of circumstances requiring a Rule 26 mandatory offer. Any mandatory offer must include a cash component at not less than the highest price paid by the offeror or concert parties during, or within six months before, the offer period. (PDF p.368)"
+ },
+ {
+  "id": "t8-c3-f3",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Advertisements",
+  "pageRef": 375,
+  "front": "Intermediaries licensed or registered for which regulated activities benefit from the SFC's specific exemption from the advertisement authorisation requirement, and what products are carved out of that exemption?",
+  "back": "Intermediaries licensed or registered for Type 1, Type 4 or Type 6 regulated activity, for Advertisements in respect of securities - except unlisted securities that are structured products, and unauthorised CISs.",
+  "explanation": "Section 103(1), SFO makes it an offence to issue an Advertisement containing an invitation to the public regarding securities, structured products or CISs unless it is authorised by the SFC or exempt. This Type 1/4/6 carve-out is one such exemption; Advertisements for an authorised CIS must still comply with the Advertising Guidelines Applicable to Collective Investment Schemes Authorized under the Product Codes. (PDF p.375)"
+ },
+ {
+  "id": "t8-c4-f1",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Management companies (UT Code requirements)",
+  "pageRef": 383,
+  "front": "What minimum financial resources must a management company of an SFC-authorised CIS have under the UT Code?",
+  "back": "Minimum paid-up share capital and non-distributable capital reserves of HK$10 million, or its foreign currency equivalent. It must also have no material lending and positive net assets at all times.",
+  "explanation": "The UT Code requires a management company to have adequate financial resources, defined specifically as HK$10 million minimum paid-up share capital and non-distributable capital reserves (or foreign currency equivalent). The same HK$10 million figure applies to trustees/custodians not licensed or registered for Type 13 regulated activity. (PDF p.383)"
+ },
+ {
+  "id": "t8-c4-f2",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Management and internal controls (key personnel)",
+  "pageRef": 384,
+  "front": "What experience must the key personnel of a CIS management company have, and how many key personnel are generally required?",
+  "back": "Key personnel must have at least five years' experience managing reputable public funds with the same or similar type of investments as those proposed to be managed. In general, at least two key personnel must be designated for each of the management company and any investment delegate.",
+  "explanation": "The UT Code expects key personnel with at least five years' public funds experience and a demonstrable investment track record, dedicating sufficient time to managing the CIS. Generally at least two key personnel are designated per management company and investment delegate, with up-to-date records made available to the SFC on request. (PDF p.384)"
+ },
+ {
+  "id": "t8-c4-f3",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Issuers of authorised unlisted SIPs",
+  "pageRef": 387,
+  "front": "What minimum net asset value (NAV) must an issuer of an authorised unlisted SIP have under Appendix A of the SIP Code?",
+  "back": "A minimum NAV of HK$2 billion, and it must be a bank regulated by the HKMA, a corporation licensed by the SFC, or an overseas banking entity subject to regulatory oversight acceptable to the SFC (or, failing those, hold a top-three investment grade credit rating from an acceptable international rating agency).",
+  "explanation": "Appendix A of the SIP Code sets the issuer eligibility threshold at a minimum NAV of HK$2 billion combined with one of three regulated statuses; a top-three investment grade rating from at least one acceptable rating agency is the fallback. A guarantor of an unlisted SIP must meet the same eligibility requirements as if it were the issuer. (PDF p.387)"
+ },
+ {
+  "id": "t8-c5-f1",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Product arrangers",
+  "pageRef": 388,
+  "front": "For which regulated activity must a product arranger of an authorised unlisted SIP be licensed or registered?",
+  "back": "Type 1 (dealing in securities) regulated activity. At the time of issue of the authorised unlisted SIP, it must also not be subject to any disciplinary proceedings in respect of its licence or registration, or any action by an exchange, regulated market or self-regulatory organisation for breach of applicable rules that may materially affect its financial condition, status or ability to perform its licensed or regulated activity.",
+  "explanation": "Eligibility as a product arranger under the SIP Code rests on a Type 1 licence or registration plus a clean disciplinary position at the time of issue. An issuer may appoint more than one product arranger, but one must be designated as the primary channel of communication with the SFC. (PDF p.388)"
+ },
+ {
+  "id": "t8-c5-f2",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Dual licensing regime for virtual asset trading platforms",
+  "pageRef": 396,
+  "front": "Under the dual licensing regime, what licences does a centralised VA trading platform (VATP) need depending on the VAs it trades?",
+  "back": "Trades VAs that are securities under the SFO: licensed or registered under the SFO (typically Type 1 and Type 7 regulated activity). Trades VAs that are not securities but meet the AMLO definition of VAs: licensed by the SFC under the AMLO. Engages in both: licensed under both the SFO and the AMLO.",
+  "explanation": "The regime applies to centralised platforms trading VAs using an automated trading engine with custody services as an ancillary service. The licence required follows the nature of the VAs traded, and platforms straddling both categories need both an SFO and an AMLO licence. (PDF p.396)"
+ },
+ {
+  "id": "t8-c5-f3",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Regulated activities under the SFO",
+  "pageRef": 397,
+  "front": "What notification requirement is triggered when a licensed corporation or registered institution starts providing VA dealing/advisory services or VA asset management services?",
+  "back": "The SFC regards providing dealing and advisory services in VA-related products and VA, as well as VA asset management services, as a significant change of activities, which triggers the notification requirement under the Securities and Futures (Licensing and Registration) (Information) Rules.",
+  "explanation": "Beyond licensing, intermediaries moving into VA-related services must notify the SFC because this is treated as a significant change of activities under the Securities and Futures (Licensing and Registration) (Information) Rules. In addition, VA dealing services may only be provided by partnering with SFC-licensed VATPs and only by intermediaries licensed or registered for Type 1 regulated activity. (PDF p.397)"
+ },
+ {
+  "id": "t8-c6-f1",
+  "type": "flashcard",
+  "topic": 8,
+  "section": "Answers to review questions",
+  "pageRef": 400,
+  "front": "At what percentage of a company's total voting rights does the initial mandatory offer trigger arise, and what must the acquirer(s) then do?",
+  "back": "The trigger arises when any person acquires, or two or more persons acting in concert acquire, voting rights bringing their holding to 30% or more of the total voting rights. The holders must then make an offer for each class of shares concerned.",
+  "explanation": "30% is the key initial threshold for a mandatory offer; it applies to a single acquirer or to persons acting in concert. A separate creeper rule catches those already holding 30-50% who increase their stake by more than 2% from their lowest holding in the preceding 12 months. (PDF p.400)"
+ },
+ {
+  "id": "t9-c1-f1",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Orders made by the Market Misconduct Tribunal",
+  "pageRef": 412,
+  "front": "What is the maximum duration of an MMT disqualification order and of a \"cold shoulder order\"?",
+  "back": "Up to five years in each case: disqualification from holding office as a director, liquidator or receiver or from taking part in the management of a corporation for up to five years; and prohibition on investing or trading in Hong Kong markets for up to five years (the \"cold shoulder order\").",
+  "explanation": "These are two of the orders the MMT may make under ss. 257 and 259, SFO against persons found to have committed market misconduct. Other available orders include payment of profit made or loss avoided to the Government plus compound interest, payment of Government and SFC costs, prohibition of the specified misconduct, and disciplinary referrals. (PDF p.412)"
+ },
+ {
+  "id": "t9-c1-f2",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Criminal sanctions imposed by the courts",
+  "pageRef": 413,
+  "front": "What are the maximum criminal sanctions for market misconduct under s. 303, SFO (a) on indictment and (b) on summary conviction?",
+  "back": "(a) Ten years' imprisonment and HK$10 million on conviction on indictment; (b) three years' imprisonment and HK$1 million on summary conviction.",
+  "explanation": "These are the criminal sanctions prescribed by the SFO under s. 303. In addition to these penalties, a court may impose sanctions such as the orders available to the MMT, e.g. disqualification and cold shoulder orders. (PDF p.413)"
+ },
+ {
+  "id": "t9-c1-f3",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Insider dealing",
+  "pageRef": 407,
+  "front": "For insider dealing, what shareholding makes a person a \"substantial shareholder\" connected with a corporation?",
+  "back": "Holding at least 5% of the total number of shares comprised in the relevant share capital of the corporation or its related corporation.",
+  "explanation": "Persons connected with a corporation include directors, employees and substantial shareholders of the corporation and its related corporation, as well as persons with professional or business relationships giving expected access to inside information, and connected persons of another corporation where the inside information relates to transactions between the two corporations. (PDF p.407)"
+ },
+ {
+  "id": "t9-c1-f4",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Market misconduct under the Securities and Futures Ordinance",
+  "pageRef": 405,
+  "front": "What standard of proof applies (a) before the MMT and (b) in a criminal prosecution for market misconduct, and can both proceedings be brought against the same person for the same act?",
+  "back": "(a) MMT: the civil standard, \"on the balance of probabilities\"; (b) criminal court: \"beyond reasonable doubt\". MMT proceedings and criminal prosecution cannot both be instituted against the same person for the same act of market misconduct.",
+  "explanation": "The dual regime in Parts XIII and XIV, SFO lets the SFC choose the civil route (MMT, with the consent of the Secretary for Justice) or refer the facts to the Secretary for Justice for criminal prosecution, according to the nature of the acts and the strength of the available evidence. The SFC may also prosecute minor cases summarily in a magistrate's court under s. 388, SFO. (PDF p.405)"
+ },
+ {
+  "id": "t9-c2-f1",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Unsolicited calls",
+  "pageRef": 415,
+  "front": "Within what time limits may a person rescind an agreement entered into as a result of an unlawful unsolicited call?",
+  "back": "Written notice within 28 days after the day of entering into the agreement, or within 7 days after the day of finding out about the contravention — whichever is the EARLIER.",
+  "explanation": "This rescission right protects investors who are pressured into agreements by cold calls prohibited under s. 174, SFO. Both limbs run from specific days and the earlier deadline applies, so the right can expire quickly once the contravention is discovered. (PDF p.415)"
+ },
+ {
+  "id": "t9-c2-f2",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Unsolicited calls",
+  "pageRef": 415,
+  "front": "List the persons on whom an intermediary MAY make an unsolicited call (i.e. who are exempt from the s. 174, SFO cold-calling prohibition).",
+  "back": "(a) existing clients; (b) licensed persons; (c) registered institutions; (d) professional investors; (e) solicitors or certified public accountants acting in their professional capacity; and (f) money lenders.",
+  "explanation": "These categories are considered able to protect themselves, so the cold-calling prohibition does not apply to calls made to them. The Knowledge check confirms the same list for an investment manager carrying out cold calling. (PDF p.415)"
+ },
+ {
+  "id": "t9-c2-f3",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Enforcement actions",
+  "pageRef": 423,
+  "front": "What penalty did the SFC impose on the licensed corporation (LC-1) that breached Code of Conduct obligations relating to its electronic and algorithmic trading systems and alternative liquidity pool?",
+  "back": "LC-1 was reprimanded and fined HK$17.3 million.",
+  "explanation": "LC-1 (licensed for Types 1, 4 and 7) failed to control erroneous algorithmic orders, failed to give non-proprietary orders execution priority over proprietary orders in its ALP, and breached documentary requirements. Senior management cooperation, an independent review, and the board's undertaking to rectify failures within a fixed period helped LC-1 avoid a substantially higher fine. (PDF p.423)"
+ },
+ {
+  "id": "t9-c3-f1",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Abbreviations",
+  "pageRef": 437,
+  "front": "What do the abbreviations MMT and MLRO stand for?",
+  "back": "MMT = Market Misconduct Tribunal; MLRO = Money laundering reporting officer.",
+  "explanation": "Both appear in the abbreviations list: MMT is the Market Misconduct Tribunal and MLRO is the money laundering reporting officer. Keep them distinct from SFAT, the Securities and Futures Appeals Tribunal, which is a different body. (PDF p.437)"
+ },
+ {
+  "id": "t9-c3-f2",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Abbreviations",
+  "pageRef": 436,
+  "front": "Which clearing entities are abbreviated HKCC and HKSCC?",
+  "back": "HKCC = HKFE Clearing Corporation Limited; HKSCC = Hong Kong Securities Clearing Company Limited.",
+  "explanation": "The abbreviations list assigns HKCC to the futures-side clearer (HKFE Clearing Corporation Limited) and HKSCC to Hong Kong Securities Clearing Company Limited. A third clearing house, SEOCH, is The SEHK Options Clearing House Limited. (PDF p.436)"
+ },
+ {
+  "id": "t9-c3-f3",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Abbreviations",
+  "pageRef": 438,
+  "front": "In the financial resources context, what does the abbreviation RLC stand for?",
+  "back": "RLC = Required liquid capital.",
+  "explanation": "The abbreviations list defines RLC as required liquid capital. It sits alongside the FRR — the Securities and Futures (Financial Resources) Rules — which is the related rules abbreviation, so the two should not be mixed up. (PDF p.438)"
+ },
+ {
+  "id": "t9-c4-f1",
+  "type": "flashcard",
+  "topic": 9,
+  "section": "Abbreviations",
+  "pageRef": 439,
+  "front": "What does the abbreviation WMD(CPS)O stand for in the Paper 1 manual?",
+  "back": "Weapons of Mass Destruction (Control of Provision of Services) Ordinance",
+  "explanation": "The abbreviations list on the same page also includes UNSO (United Nations Sanctions Ordinance), so take care not to confuse the two sanctions-related ordinances. WMD(CPS)O specifically concerns the control of provision of services relating to weapons of mass destruction. (PDF p.439)"
+ }
+]
