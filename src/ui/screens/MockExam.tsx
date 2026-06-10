@@ -46,7 +46,7 @@ export default function MockExam({ manifest, items, onFinish }: Props) {
   useEffect(() => {
     if (exam && !result && endsAt > 0 && msLeft <= 0) submit()
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [msLeft])
+  }, [msLeft, result])
 
   if (!exam)
     return (
@@ -81,21 +81,21 @@ export default function MockExam({ manifest, items, onFinish }: Props) {
     )
 
   const q = exam[idx]
+  const answered = answers.filter(a => a !== null).length
   const mins = Math.max(0, Math.floor(msLeft / 60_000))
   const secs = Math.max(0, Math.floor((msLeft % 60_000) / 1000))
-  const answered = answers.filter(a => a !== null).length
   return (
     <div className="screen">
       <header>
         <span>{idx + 1} / {exam.length} · {answered} answered</span>
         <span className="timer">{mins}:{String(secs).padStart(2, '0')}</span>
       </header>
-      <div className="bar"><div style={{ width: `${(idx / exam.length) * 100}%` }} /></div>
+      <div className="bar"><div style={{ width: `${(answered / exam.length) * 100}%` }} /></div>
       <p className="q">{q.question}</p>
       {q.options.map((o, i) => (
         <button
           key={i}
-          className={answers[idx] === i ? 'opt right' : 'opt'}
+          className={answers[idx] === i ? 'opt selected' : 'opt'}
           onClick={() => setAnswers(a => a.map((v, j) => (j === idx ? i : v)))}
         >
           {String.fromCharCode(65 + i)}&nbsp;&nbsp;{o}

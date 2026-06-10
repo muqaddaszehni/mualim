@@ -18,11 +18,12 @@ function useHashRoute() {
 }
 
 export default function App() {
-  const pack = usePack()
+  const { pack, error } = usePack()
   const [state, setState] = useState<AppState>(() => loadState())
   const [sitKey, setSitKey] = useState(0)
   const route = useHashRoute()
 
+  if (error) return <div className="screen"><p className="center">{error}</p></div>
   if (!pack) return <div className="screen"><p className="center">Loading…</p></div>
 
   const update = (fn: (s: AppState) => AppState) =>

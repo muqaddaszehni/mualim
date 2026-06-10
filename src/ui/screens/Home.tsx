@@ -28,7 +28,7 @@ export default function Home({ items, state, onSetExamDate }: Props) {
         Exam date:
         <input
           type="date"
-          defaultValue={state.examDate ? new Date(state.examDate).toISOString().slice(0, 10) : ''}
+          value={state.examDate ? new Date(state.examDate).toISOString().slice(0, 10) : ''}
           onChange={e => e.target.value && onSetExamDate(new Date(e.target.value).getTime())}
         />
       </label>

@@ -32,6 +32,7 @@ button { font: inherit; border: 0; cursor: pointer; }
 .opt.right { background: var(--right-bg); border-color: var(--accent); }
 .opt.wrong { background: var(--wrong-bg); border-color: var(--wrong); }
 .opt.dim { opacity: 0.45; }
+.opt.selected { border-color: var(--accent); }
 .explain { background: var(--card); border-radius: 12px; padding: 14px; margin-top: 10px; font-size: 14px; line-height: 1.5; }
 .explain .ref { color: var(--muted); font-size: 12px; margin-bottom: 0; }
 .answer { font-weight: 700; color: var(--accent); font-size: 16px; }
