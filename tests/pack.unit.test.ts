@@ -47,6 +47,17 @@ describe('validatePack', () => {
     ] as Item[])
     expect(errs.length).toBeGreaterThanOrEqual(5)
   })
+  it('rejects structurally broken JSON items', () => {
+    const errs = validatePack(manifest, [
+      { id: 'x1', type: 'mystery', topic: 1, section: 's', pageRef: 12, explanation: 'e' },
+      { id: 'x2', type: 'mcq', topic: 1, section: 's', pageRef: 12, question: 'Q?', options: null, answer: 0, explanation: 'e' },
+      { id: 'x3', type: 'mcq', topic: 1, section: 's', pageRef: 12, question: 'Q?', options: ['a', 2, 'c', 'd'], answer: 0, explanation: 'e' },
+      { type: 'flashcard', topic: 1, section: 's', pageRef: 12, front: 'F', back: 'B', explanation: 'e' },
+      { id: 'x5', type: 'mcq', topic: 1, section: 's', pageRef: 'twelve', question: 'Q?', options: ['a', 'b', 'c', 'd'], answer: 0, explanation: 'e' },
+    ] as unknown as Item[])
+    expect(errs.length).toBeGreaterThanOrEqual(5)
+    // must not throw
+  })
   it('weightsOf maps topic id to weight', () => {
     expect(weightsOf(manifest)).toEqual({ 1: 60, 2: 40 })
   })
